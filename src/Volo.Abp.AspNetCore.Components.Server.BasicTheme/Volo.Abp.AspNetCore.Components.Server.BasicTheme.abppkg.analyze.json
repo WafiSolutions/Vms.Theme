@@ -1,9 +1,9 @@
 {
-  "name": "Volo.Abp.AspNetCore.Components.Server.BasicTheme",
+  "name": "Vms.Server.Theme",
   "hash": "c09e29e1f299ffa9dea6997d0c432162",
   "contents": [
     {
-      "namespace": "Volo.Abp.AspNetCore.Components.Server.BasicTheme",
+      "namespace": "Vms.Server.Theme",
       "dependsOnModules": [
         {
           "declaringAssemblyName": "Volo.Abp.AspNetCore.Components.Web.BasicTheme",

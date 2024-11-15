@@ -1,16 +1,16 @@
 ﻿using System.Threading.Tasks;
-using Volo.Abp.AspNetCore.Components.Server.BasicTheme.Themes.Basic;
+using Vms.Server.Theme.Themes.Vms;
 using Volo.Abp.AspNetCore.Components.Web.Theming.Toolbars;
 
-namespace Volo.Abp.AspNetCore.Components.Server.BasicTheme;
+namespace Vms.Server.Theme;
 
-public class BasicThemeToolbarContributor : IToolbarContributor
+public class VmsToolbarContributor : IToolbarContributor
 {
     public Task ConfigureToolbarAsync(IToolbarConfigurationContext context)
     {
         if (context.Toolbar.Name == StandardToolbars.Main)
         {
-            context.Toolbar.Items.Add(new ToolbarItem(typeof(LoginDisplay)));
+            context.Toolbar.Items.Add(new ToolbarItem(typeof(Vms.Server.Theme.Themes.Basic.LoginDisplay)));
             context.Toolbar.Items.Add(new ToolbarItem(typeof(LanguageSwitch)));
         }
 

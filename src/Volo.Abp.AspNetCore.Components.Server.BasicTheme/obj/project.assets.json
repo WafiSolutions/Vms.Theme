@@ -8518,9 +8518,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projects\\Takamol\\Vms.Theme\\src\\Volo.Abp.AspNetCore.Components.Server.BasicTheme\\Volo.Abp.AspNetCore.Components.Server.BasicTheme.csproj",
-      "projectName": "Volo.Abp.AspNetCore.Components.Server.BasicTheme",
-      "projectPath": "E:\\Projects\\Takamol\\Vms.Theme\\src\\Volo.Abp.AspNetCore.Components.Server.BasicTheme\\Volo.Abp.AspNetCore.Components.Server.BasicTheme.csproj",
+      "projectUniqueName": "E:\\Projects\\Takamol\\Vms.Theme\\src\\Volo.Abp.AspNetCore.Components.Server.BasicTheme\\Vms.Server.Theme.csproj",
+      "projectName": "Vms.Server.Theme",
+      "projectPath": "E:\\Projects\\Takamol\\Vms.Theme\\src\\Volo.Abp.AspNetCore.Components.Server.BasicTheme\\Vms.Server.Theme.csproj",
       "packagesPath": "C:\\Users\\jinhr\\.nuget\\packages\\",
       "outputPath": "E:\\Projects\\Takamol\\Vms.Theme\\src\\Volo.Abp.AspNetCore.Components.Server.BasicTheme\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
 using Volo.Abp.AspNetCore.Mvc.UI.Bundling;
 
-namespace Volo.Abp.AspNetCore.Components.Server.BasicTheme.Bundling;
+namespace Vms.Server.Theme.Bundling;
 
-public class BlazorBasicThemeStyleContributor : BundleContributor
+public class BlazorVmsStyleContributor : BundleContributor
 {
     public override void ConfigureBundle(BundleConfigurationContext context)
     {

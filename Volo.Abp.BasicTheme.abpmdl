@@ -14,8 +14,8 @@
       "path": "test/Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo/Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo.abppkg",
       "folder": "test"
     },
-    "Volo.Abp.AspNetCore.Components.Server.BasicTheme": {
-      "path": "src/Volo.Abp.AspNetCore.Components.Server.BasicTheme/Volo.Abp.AspNetCore.Components.Server.BasicTheme.abppkg",
+    "Vms.Server.Theme": {
+      "path": "src/Vms.Server.Theme/Vms.Server.Theme.abppkg",
       "folder": "src"
     },
     "Volo.Abp.AspNetCore.Components.Web.BasicTheme": {

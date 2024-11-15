@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5qPa3KNPICj5FZ4/MpBIvzvvPSO/FZHlqYlN0Wq/AbuXw9SbCO61K/cDzMUkdi1SzfTNln18J5vT3BNXvuRWKw==",
+  "dgSpecHash": "uHQGcRe02EIynr/X4zZyMLeLXO1B+i3rb94FuWMRmAVCl371vsEeTtYHt7I5L9RYly3RxXy14qS2GHlorEpqAw==",
   "success": true,
-  "projectFilePath": "E:\\Projects\\Takamol\\Vms.Theme\\src\\Volo.Abp.AspNetCore.Components.Server.BasicTheme\\Volo.Abp.AspNetCore.Components.Server.BasicTheme.csproj",
+  "projectFilePath": "E:\\Projects\\Takamol\\Vms.Theme\\src\\Volo.Abp.AspNetCore.Components.Server.BasicTheme\\Vms.Server.Theme.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jinhr\\.nuget\\packages\\asp.versioning.abstractions\\8.1.0\\asp.versioning.abstractions.8.1.0.nupkg.sha512",
     "C:\\Users\\jinhr\\.nuget\\packages\\asp.versioning.http\\8.1.0\\asp.versioning.http.8.1.0.nupkg.sha512",
