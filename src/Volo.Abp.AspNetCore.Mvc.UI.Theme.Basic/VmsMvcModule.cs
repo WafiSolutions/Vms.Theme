@@ -16,13 +16,13 @@ namespace Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic;
     typeof(AbpAspNetCoreMvcUiThemeSharedModule),
     typeof(AbpAspNetCoreMvcUiMultiTenancyModule)
     )]
-public class AbpAspNetCoreMvcUiBasicThemeModule : AbpModule
+public class VmsMvcModule : AbpModule
 {
     public override void PreConfigureServices(ServiceConfigurationContext context)
     {
         PreConfigure<IMvcBuilder>(mvcBuilder =>
         {
-            mvcBuilder.AddApplicationPartIfNotExists(typeof(AbpAspNetCoreMvcUiBasicThemeModule).Assembly);
+            mvcBuilder.AddApplicationPartIfNotExists(typeof(VmsMvcModule).Assembly);
         });
     }
 
@@ -40,7 +40,7 @@ public class AbpAspNetCoreMvcUiBasicThemeModule : AbpModule
 
         Configure<AbpVirtualFileSystemOptions>(options =>
         {
-            options.FileSets.AddEmbedded<AbpAspNetCoreMvcUiBasicThemeModule>("Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic");
+            options.FileSets.AddEmbedded<VmsMvcModule>("Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic");
         });
 
         Configure<AbpToolbarOptions>(options =>

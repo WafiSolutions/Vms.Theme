@@ -15,7 +15,7 @@ using Volo.Abp.UI.Navigation;
 namespace Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo;
 
 [DependsOn(
-    typeof(AbpAspNetCoreMvcUiBasicThemeModule),
+    typeof(VmsMvcModule),
     typeof(AbpAutofacModule)
     )]
 public class AbpAspNetCoreMvcUiBootstrapDemoModule : AbpModule

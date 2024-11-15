@@ -7,7 +7,7 @@ namespace Volo.Abp.AspNetCore.Components.Web.BasicTheme;
 [DependsOn(
     typeof(AbpAspNetCoreComponentsWebThemingModule)
 )]
-public class AbpAspNetCoreComponentsWebBasicThemeModule : AbpModule
+public class VmsWebModule : AbpModule
 {
     public override void ConfigureServices(ServiceConfigurationContext context)
     {

@@ -9,7 +9,7 @@ namespace Volo.Abp.AspNetCore.Components.Web.BasicTheme;
 [ThemeName(Name)]
 public class BasicTheme : ITheme, ITransientDependency
 {
-    public const string Name = "Basic";
+    public const string Name = "Vms";
 
     public virtual Type GetLayout(string name, bool fallbackToDefault = true)
     {

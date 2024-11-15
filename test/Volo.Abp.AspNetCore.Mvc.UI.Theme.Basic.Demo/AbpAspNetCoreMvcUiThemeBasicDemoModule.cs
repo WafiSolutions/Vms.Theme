@@ -14,7 +14,7 @@ using Volo.Abp.VirtualFileSystem;
 namespace Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo;
 
 [DependsOn(
-    typeof(AbpAspNetCoreMvcUiBasicThemeModule),
+    typeof(VmsMvcModule),
     typeof(AbpAspNetCoreMvcUiThemeSharedDemoModule),
     typeof(AbpAutofacModule)
     )]

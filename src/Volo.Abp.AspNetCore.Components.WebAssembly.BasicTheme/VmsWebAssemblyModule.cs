@@ -10,17 +10,17 @@ using Volo.Abp.Modularity;
 namespace Volo.Abp.AspNetCore.Components.WebAssembly.BasicTheme;
 
 [DependsOn(
-    typeof(AbpAspNetCoreComponentsWebBasicThemeModule),
+    typeof(VmsWebModule),
     typeof(AbpAspNetCoreComponentsWebAssemblyThemingModule),
     typeof(AbpHttpClientIdentityModelWebAssemblyModule)
     )]
-public class AbpAspNetCoreComponentsWebAssemblyBasicThemeModule : AbpModule
+public class VmsWebAssemblyModule : AbpModule
 {
     public override void ConfigureServices(ServiceConfigurationContext context)
     {
         Configure<AbpRouterOptions>(options =>
         {
-            options.AdditionalAssemblies.Add(typeof(AbpAspNetCoreComponentsWebAssemblyBasicThemeModule).Assembly);
+            options.AdditionalAssemblies.Add(typeof(VmsWebAssemblyModule).Assembly);
         });
 
         Configure<AbpToolbarOptions>(options =>

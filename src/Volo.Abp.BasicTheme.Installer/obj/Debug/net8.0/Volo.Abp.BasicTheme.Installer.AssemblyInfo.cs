@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Volo.Abp.BasicTheme.Installer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51ec9b53d579c3c2252333e9de698348f289129b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88313e523591070f85e294d59aa93a4f26a62188")]
 [assembly: System.Reflection.AssemblyProductAttribute("Volo.Abp.BasicTheme.Installer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Volo.Abp.BasicTheme.Installer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

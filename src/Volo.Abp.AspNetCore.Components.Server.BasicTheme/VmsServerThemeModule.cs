@@ -10,10 +10,10 @@ using Volo.Abp.Modularity;
 namespace Volo.Abp.AspNetCore.Components.Server.BasicTheme;
 
 [DependsOn(
-    typeof(AbpAspNetCoreComponentsWebBasicThemeModule),
+    typeof(VmsWebModule),
     typeof(AbpAspNetCoreComponentsServerThemingModule)
     )]
-public class AbpAspNetCoreComponentsServerBasicThemeModule : AbpModule
+public class VmsServerThemeModule : AbpModule
 {
     public override void ConfigureServices(ServiceConfigurationContext context)
     {
