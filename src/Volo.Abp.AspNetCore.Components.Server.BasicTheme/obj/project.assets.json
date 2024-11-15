@@ -3190,17 +3190,17 @@
           }
         }
       },
-      "Volo.Abp.AspNetCore.Components.Web.BasicTheme/1.0.0": {
+      "Vms.Web.Theme/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "Volo.Abp.AspNetCore.Components.Web.Theming": "8.3.3"
         },
         "compile": {
-          "bin/placeholder/Volo.Abp.AspNetCore.Components.Web.BasicTheme.dll": {}
+          "bin/placeholder/Vms.Web.Theme.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Volo.Abp.AspNetCore.Components.Web.BasicTheme.dll": {}
+          "bin/placeholder/Vms.Web.Theme.dll": {}
         }
       }
     }
@@ -8499,17 +8499,17 @@
         "yamldotnet.nuspec"
       ]
     },
-    "Volo.Abp.AspNetCore.Components.Web.BasicTheme/1.0.0": {
+    "Vms.Web.Theme/1.0.0": {
       "type": "project",
-      "path": "../Volo.Abp.AspNetCore.Components.Web.BasicTheme/Volo.Abp.AspNetCore.Components.Web.BasicTheme.csproj",
-      "msbuildProject": "../Volo.Abp.AspNetCore.Components.Web.BasicTheme/Volo.Abp.AspNetCore.Components.Web.BasicTheme.csproj"
+      "path": "../Volo.Abp.AspNetCore.Components.Web.BasicTheme/Vms.Web.Theme.csproj",
+      "msbuildProject": "../Volo.Abp.AspNetCore.Components.Web.BasicTheme/Vms.Web.Theme.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "Microsoft.AspNetCore.WebUtilities >= 8.0.4",
-      "Volo.Abp.AspNetCore.Components.Server.Theming >= 8.3.3",
-      "Volo.Abp.AspNetCore.Components.Web.BasicTheme >= 1.0.0"
+      "Vms.Web.Theme >= 1.0.0",
+      "Volo.Abp.AspNetCore.Components.Server.Theming >= 8.3.3"
     ]
   },
   "packageFolders": {
@@ -8540,8 +8540,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\Projects\\Takamol\\Vms.Theme\\src\\Volo.Abp.AspNetCore.Components.Web.BasicTheme\\Volo.Abp.AspNetCore.Components.Web.BasicTheme.csproj": {
-              "projectPath": "E:\\Projects\\Takamol\\Vms.Theme\\src\\Volo.Abp.AspNetCore.Components.Web.BasicTheme\\Volo.Abp.AspNetCore.Components.Web.BasicTheme.csproj"
+            "E:\\Projects\\Takamol\\Vms.Theme\\src\\Volo.Abp.AspNetCore.Components.Web.BasicTheme\\Vms.Web.Theme.csproj": {
+              "projectPath": "E:\\Projects\\Takamol\\Vms.Theme\\src\\Volo.Abp.AspNetCore.Components.Web.BasicTheme\\Vms.Web.Theme.csproj"
             }
           }
         }

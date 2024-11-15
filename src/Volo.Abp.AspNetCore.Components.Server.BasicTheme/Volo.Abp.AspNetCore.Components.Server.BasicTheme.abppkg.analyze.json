@@ -6,8 +6,8 @@
       "namespace": "Vms.Server.Theme",
       "dependsOnModules": [
         {
-          "declaringAssemblyName": "Volo.Abp.AspNetCore.Components.Web.BasicTheme",
-          "namespace": "Volo.Abp.AspNetCore.Components.Web.BasicTheme",
+          "declaringAssemblyName": "Vms.Web.Theme",
+          "namespace": "Vms.Web.Theme",
           "name": "AbpAspNetCoreComponentsWebBasicThemeModule"
         },
         {

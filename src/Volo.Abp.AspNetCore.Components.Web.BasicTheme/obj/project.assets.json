@@ -5196,9 +5196,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projects\\Takamol\\Vms.Theme\\src\\Volo.Abp.AspNetCore.Components.Web.BasicTheme\\Volo.Abp.AspNetCore.Components.Web.BasicTheme.csproj",
-      "projectName": "Volo.Abp.AspNetCore.Components.Web.BasicTheme",
-      "projectPath": "E:\\Projects\\Takamol\\Vms.Theme\\src\\Volo.Abp.AspNetCore.Components.Web.BasicTheme\\Volo.Abp.AspNetCore.Components.Web.BasicTheme.csproj",
+      "projectUniqueName": "E:\\Projects\\Takamol\\Vms.Theme\\src\\Volo.Abp.AspNetCore.Components.Web.BasicTheme\\Vms.Web.Theme.csproj",
+      "projectName": "Vms.Web.Theme",
+      "projectPath": "E:\\Projects\\Takamol\\Vms.Theme\\src\\Volo.Abp.AspNetCore.Components.Web.BasicTheme\\Vms.Web.Theme.csproj",
       "packagesPath": "C:\\Users\\jinhr\\.nuget\\packages\\",
       "outputPath": "E:\\Projects\\Takamol\\Vms.Theme\\src\\Volo.Abp.AspNetCore.Components.Web.BasicTheme\\obj\\",
       "projectStyle": "PackageReference",

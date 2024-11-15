@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pQ2isvjHrLrHWlJboN3kAjunBQSS9SVszTC+IwGJZJGAzHbFPf32oWKW4uVsGiRlSjiKRzo5ikVY2ok4sydWTg==",
+  "dgSpecHash": "cgKBAQsc2/26Ci4PTqUKkQML/nMhhtlP5qkPalDlex2JlGctNg46xEPtryC1FMrpKQLIU3aPw+M3UFTGovlhSQ==",
   "success": true,
-  "projectFilePath": "E:\\Projects\\Takamol\\Vms.Theme\\src\\Volo.Abp.AspNetCore.Components.Web.BasicTheme\\Volo.Abp.AspNetCore.Components.Web.BasicTheme.csproj",
+  "projectFilePath": "E:\\Projects\\Takamol\\Vms.Theme\\src\\Volo.Abp.AspNetCore.Components.Web.BasicTheme\\Vms.Web.Theme.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jinhr\\.nuget\\packages\\blazorise\\1.5.2\\blazorise.1.5.2.nupkg.sha512",
     "C:\\Users\\jinhr\\.nuget\\packages\\blazorise.components\\1.5.2\\blazorise.components.1.5.2.nupkg.sha512",

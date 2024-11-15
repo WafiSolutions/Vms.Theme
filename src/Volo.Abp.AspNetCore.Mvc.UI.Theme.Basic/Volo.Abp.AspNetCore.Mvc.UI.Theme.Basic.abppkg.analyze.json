@@ -1,9 +1,9 @@
 {
-  "name": "Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic",
+  "name": "Vms.Mvc.Theme",
   "hash": "",
   "contents": [
     {
-      "namespace": "Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic",
+      "namespace": "Vms.Mvc.Theme",
       "dependsOnModules": [
         {
           "declaringAssemblyName": "Volo.Abp.AspNetCore.Mvc.UI.Theme.Shared",

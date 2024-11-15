@@ -2,7 +2,7 @@
 using Volo.Abp.AspNetCore.Components.Web.Theming.Theming;
 using Volo.Abp.Modularity;
 
-namespace Volo.Abp.AspNetCore.Components.Web.BasicTheme;
+namespace Vms.Web.Theme;
 
 [DependsOn(
     typeof(AbpAspNetCoreComponentsWebThemingModule)
@@ -13,11 +13,11 @@ public class VmsWebModule : AbpModule
     {
         Configure<AbpThemingOptions>(options =>
         {
-            options.Themes.Add<BasicTheme>();
+            options.Themes.Add<VmsTheme>();
 
             if (options.DefaultThemeName == null)
             {
-                options.DefaultThemeName = BasicTheme.Name;
+                options.DefaultThemeName = VmsTheme.Name;
             }
         });
     }

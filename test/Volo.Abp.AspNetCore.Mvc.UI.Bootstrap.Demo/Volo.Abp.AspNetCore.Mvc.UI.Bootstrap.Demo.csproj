@@ -15,7 +15,7 @@
 
   <ItemGroup>
     <PackageReference Include="Volo.Abp.Autofac" VersionOverride="8.3.3" />
-    <ProjectReference Include="..\..\src\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.csproj" />
+    <ProjectReference Include="..\..\src\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic\Vms.Mvc.Theme.csproj" />
   </ItemGroup>
 
   <ItemGroup>

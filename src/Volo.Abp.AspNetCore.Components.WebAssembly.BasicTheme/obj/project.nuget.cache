@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A4x8CQZko9nhPPHXZHBCZvOL7J38jfd/d81rAUg57xJ20uGkdwFL2ZgJJAoZYGw1kn5jxx8JgFHTljiYyxvaLA==",
+  "dgSpecHash": "gvb0Ji/mkojAUMs5R1kGuIY0cEuurO4VDB8yPVn2yS2SOAgx7I4gGUS8LdQ9mRmzeeCaU8gi3lr+B4/Vr2KHsg==",
   "success": true,
-  "projectFilePath": "E:\\Projects\\Takamol\\Vms.Theme\\src\\Volo.Abp.AspNetCore.Components.WebAssembly.BasicTheme\\Volo.Abp.AspNetCore.Components.WebAssembly.BasicTheme.csproj",
+  "projectFilePath": "E:\\Projects\\Takamol\\Vms.Theme\\src\\Volo.Abp.AspNetCore.Components.WebAssembly.BasicTheme\\Vms.WebAssembly.Theme.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jinhr\\.nuget\\packages\\asynckeyedlock\\6.3.4\\asynckeyedlock.6.3.4.nupkg.sha512",
     "C:\\Users\\jinhr\\.nuget\\packages\\blazorise\\1.5.2\\blazorise.1.5.2.nupkg.sha512",

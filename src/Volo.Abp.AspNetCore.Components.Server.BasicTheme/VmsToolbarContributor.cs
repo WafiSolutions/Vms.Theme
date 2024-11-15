@@ -10,7 +10,7 @@ public class VmsToolbarContributor : IToolbarContributor
     {
         if (context.Toolbar.Name == StandardToolbars.Main)
         {
-            context.Toolbar.Items.Add(new ToolbarItem(typeof(Vms.Server.Theme.Themes.Basic.LoginDisplay)));
+            context.Toolbar.Items.Add(new ToolbarItem(typeof(LoginDisplay)));
             context.Toolbar.Items.Add(new ToolbarItem(typeof(LanguageSwitch)));
         }
 

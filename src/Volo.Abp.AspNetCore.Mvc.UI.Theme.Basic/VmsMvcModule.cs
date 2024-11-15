@@ -1,8 +1,8 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 using Volo.Abp.AspNetCore.Mvc.UI.Bundling;
 using Volo.Abp.AspNetCore.Mvc.UI.MultiTenancy;
-using Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Bundling;
-using Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Toolbars;
+using Vms.Mvc.Theme.Bundling;
+using Vms.Mvc.Theme.Toolbars;
 using Volo.Abp.AspNetCore.Mvc.UI.Theme.Shared;
 using Volo.Abp.AspNetCore.Mvc.UI.Theme.Shared.Bundling;
 using Volo.Abp.AspNetCore.Mvc.UI.Theme.Shared.Toolbars;
@@ -10,7 +10,7 @@ using Volo.Abp.AspNetCore.Mvc.UI.Theming;
 using Volo.Abp.Modularity;
 using Volo.Abp.VirtualFileSystem;
 
-namespace Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic;
+namespace Vms.Mvc.Theme;
 
 [DependsOn(
     typeof(AbpAspNetCoreMvcUiThemeSharedModule),
@@ -30,42 +30,42 @@ public class VmsMvcModule : AbpModule
     {
         Configure<AbpThemingOptions>(options =>
         {
-            options.Themes.Add<BasicTheme>();
+            options.Themes.Add<VmsTheme>();
 
             if (options.DefaultThemeName == null)
             {
-                options.DefaultThemeName = BasicTheme.Name;
+                options.DefaultThemeName = VmsTheme.Name;
             }
         });
 
         Configure<AbpVirtualFileSystemOptions>(options =>
         {
-            options.FileSets.AddEmbedded<VmsMvcModule>("Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic");
+            options.FileSets.AddEmbedded<VmsMvcModule>("Vms.Mvc.Theme");
         });
 
         Configure<AbpToolbarOptions>(options =>
         {
-            options.Contributors.Add(new BasicThemeMainTopToolbarContributor());
+            options.Contributors.Add(new VmsThemeMainTopToolbarContributor());
         });
 
         Configure<AbpBundlingOptions>(options =>
         {
             options
                 .StyleBundles
-                .Add(BasicThemeBundles.Styles.Global, bundle =>
+                .Add(VmsThemeBundles.Styles.Global, bundle =>
                 {
                     bundle
                         .AddBaseBundles(StandardBundles.Styles.Global)
-                        .AddContributors(typeof(BasicThemeGlobalStyleContributor));
+                        .AddContributors(typeof(VmsThemeGlobalStyleContributor));
                 });
 
             options
                 .ScriptBundles
-                .Add(BasicThemeBundles.Scripts.Global, bundle =>
+                .Add(VmsThemeBundles.Scripts.Global, bundle =>
                 {
                     bundle
                         .AddBaseBundles(StandardBundles.Scripts.Global)
-                        .AddContributors(typeof(BasicThemeGlobalScriptContributor));
+                        .AddContributors(typeof(VmsThemeGlobalScriptContributor));
                 });
         });
     }

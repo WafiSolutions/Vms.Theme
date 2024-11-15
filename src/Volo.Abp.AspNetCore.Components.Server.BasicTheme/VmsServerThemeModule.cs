@@ -1,7 +1,7 @@
 ﻿using Vms.Server.Theme.Bundling;
 using Volo.Abp.AspNetCore.Components.Server.Theming;
 using Volo.Abp.AspNetCore.Components.Server.Theming.Bundling;
-using Volo.Abp.AspNetCore.Components.Web.BasicTheme;
+using Vms.Web.Theme;
 using Volo.Abp.AspNetCore.Components.Web.Theming.Routing;
 using Volo.Abp.AspNetCore.Components.Web.Theming.Toolbars;
 using Volo.Abp.AspNetCore.Mvc.UI.Bundling;

@@ -7,6 +7,6 @@ public class BlazorVmsStyleContributor : BundleContributor
 {
     public override void ConfigureBundle(BundleConfigurationContext context)
     {
-        context.Files.AddIfNotContains("/_content/Volo.Abp.AspNetCore.Components.Web.BasicTheme/libs/abp/css/theme.css");
+        context.Files.AddIfNotContains("/_content/Vms.Web.Theme/libs/abp/css/theme.css");
     }
 }

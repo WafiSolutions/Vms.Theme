@@ -4680,7 +4680,7 @@
           }
         }
       },
-      "Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic/1.0.0": {
+      "Vms.Mvc.Theme/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
@@ -4688,10 +4688,10 @@
           "Volo.Abp.AspNetCore.Mvc.UI.Theme.Shared": "8.3.3"
         },
         "compile": {
-          "bin/placeholder/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.dll": {}
+          "bin/placeholder/Vms.Mvc.Theme.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.dll": {}
+          "bin/placeholder/Vms.Mvc.Theme.dll": {}
         }
       }
     }
@@ -12849,10 +12849,10 @@
         "yamldotnet.nuspec"
       ]
     },
-    "Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic/1.0.0": {
+    "Vms.Mvc.Theme/1.0.0": {
       "type": "project",
-      "path": "../../src/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.csproj",
-      "msbuildProject": "../../src/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.csproj"
+      "path": "../../src/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic/Vms.Mvc.Theme.csproj",
+      "msbuildProject": "../../src/Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic/Vms.Mvc.Theme.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -12860,7 +12860,7 @@
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 8.0.0",
       "Serilog.AspNetCore >= 8.0.0",
       "Serilog.Sinks.File >= 5.0.0",
-      "Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic >= 1.0.0",
+      "Vms.Mvc.Theme >= 1.0.0",
       "Volo.Abp.Autofac >= 8.3.3"
     ]
   },
@@ -12892,8 +12892,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\Projects\\Takamol\\Vms.Theme\\src\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.csproj": {
-              "projectPath": "E:\\Projects\\Takamol\\Vms.Theme\\src\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.csproj"
+            "E:\\Projects\\Takamol\\Vms.Theme\\src\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic\\Vms.Mvc.Theme.csproj": {
+              "projectPath": "E:\\Projects\\Takamol\\Vms.Theme\\src\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic\\Vms.Mvc.Theme.csproj"
             }
           }
         }

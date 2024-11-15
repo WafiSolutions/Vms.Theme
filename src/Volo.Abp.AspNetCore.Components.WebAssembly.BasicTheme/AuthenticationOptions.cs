@@ -1,4 +1,4 @@
-namespace Volo.Abp.AspNetCore.Components.WebAssembly.BasicTheme;
+namespace Vms.WebAssembly.Theme;
 
 public class AuthenticationOptions
 {

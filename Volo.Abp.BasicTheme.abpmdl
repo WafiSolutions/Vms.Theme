@@ -18,8 +18,8 @@
       "path": "src/Vms.Server.Theme/Vms.Server.Theme.abppkg",
       "folder": "src"
     },
-    "Volo.Abp.AspNetCore.Components.Web.BasicTheme": {
-      "path": "src/Volo.Abp.AspNetCore.Components.Web.BasicTheme/Volo.Abp.AspNetCore.Components.Web.BasicTheme.abppkg",
+    "Vms.Web.Theme": {
+      "path": "src/Vms.Web.Theme/Vms.Web.Theme.abppkg",
       "folder": "src"
     },
     "Volo.Abp.AspNetCore.Components.WebAssembly.BasicTheme": {
