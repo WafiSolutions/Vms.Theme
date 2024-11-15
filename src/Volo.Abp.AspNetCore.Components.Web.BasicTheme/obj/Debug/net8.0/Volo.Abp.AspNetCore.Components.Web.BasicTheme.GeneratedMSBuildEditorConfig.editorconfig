@@ -1,0 +1,63 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Volo.Abp.AspNetCore.Components.Web.BasicTheme
+build_property.RootNamespace = Volo.Abp.AspNetCore.Components.Web.BasicTheme
+build_property.ProjectDir = E:\Projects\Takamol\Vms.Theme\src\Volo.Abp.AspNetCore.Components.Web.BasicTheme\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\Projects\Takamol\Vms.Theme\src\Volo.Abp.AspNetCore.Components.Web.BasicTheme
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/Projects/Takamol/Vms.Theme/src/Volo.Abp.AspNetCore.Components.Web.BasicTheme/Themes/Basic/App.razor]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXEJhc2ljXEFwcC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Projects/Takamol/Vms.Theme/src/Volo.Abp.AspNetCore.Components.Web.BasicTheme/Themes/Basic/AppWithoutAuth.razor]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXEJhc2ljXEFwcFdpdGhvdXRBdXRoLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Projects/Takamol/Vms.Theme/src/Volo.Abp.AspNetCore.Components.Web.BasicTheme/Themes/Basic/Branding.razor]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXEJhc2ljXEJyYW5kaW5nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Projects/Takamol/Vms.Theme/src/Volo.Abp.AspNetCore.Components.Web.BasicTheme/Themes/Basic/FirstLevelNavMenuItem.razor]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXEJhc2ljXEZpcnN0TGV2ZWxOYXZNZW51SXRlbS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Projects/Takamol/Vms.Theme/src/Volo.Abp.AspNetCore.Components.Web.BasicTheme/Themes/Basic/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXEJhc2ljXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Projects/Takamol/Vms.Theme/src/Volo.Abp.AspNetCore.Components.Web.BasicTheme/Themes/Basic/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXEJhc2ljXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Projects/Takamol/Vms.Theme/src/Volo.Abp.AspNetCore.Components.Web.BasicTheme/Themes/Basic/NavToolbar.razor]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXEJhc2ljXE5hdlRvb2xiYXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Projects/Takamol/Vms.Theme/src/Volo.Abp.AspNetCore.Components.Web.BasicTheme/Themes/Basic/NullLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXEJhc2ljXE51bGxMYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Projects/Takamol/Vms.Theme/src/Volo.Abp.AspNetCore.Components.Web.BasicTheme/Themes/Basic/RedirectToLogin.razor]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXEJhc2ljXFJlZGlyZWN0VG9Mb2dpbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Projects/Takamol/Vms.Theme/src/Volo.Abp.AspNetCore.Components.Web.BasicTheme/Themes/Basic/SecondLevelNavMenuItem.razor]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXEJhc2ljXFNlY29uZExldmVsTmF2TWVudUl0ZW0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Projects/Takamol/Vms.Theme/src/Volo.Abp.AspNetCore.Components.Web.BasicTheme/Themes/Basic/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXEJhc2ljXF9JbXBvcnRzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
