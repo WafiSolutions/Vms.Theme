@@ -9,6 +9,7 @@ using Volo.Abp.AspNetCore.Mvc.UI.Theme.Shared.Toolbars;
 using Volo.Abp.AspNetCore.Mvc.UI.Theming;
 using Volo.Abp.Modularity;
 using Volo.Abp.VirtualFileSystem;
+using Volo.Abp.MultiTenancy;
 
 namespace Vms.Mvc.Theme;
 
@@ -28,6 +29,11 @@ public class VmsThemeMvcModule : AbpModule
 
     public override void ConfigureServices(ServiceConfigurationContext context)
     {
+        Configure<AbpMultiTenancyOptions>(options =>
+        {
+            options.IsEnabled = false;
+        });
+
         Configure<AbpThemingOptions>(options =>
         {
             options.Themes.Add<VmsTheme>();

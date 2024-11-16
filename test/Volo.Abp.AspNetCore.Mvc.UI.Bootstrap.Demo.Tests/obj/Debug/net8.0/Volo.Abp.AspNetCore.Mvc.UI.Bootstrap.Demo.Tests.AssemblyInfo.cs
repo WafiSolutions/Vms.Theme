@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4bea5de53e7eefd7e59530f9796bc6faefaed12c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2adf614139d9f890235cb7ffad8c36cd8223d9a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
