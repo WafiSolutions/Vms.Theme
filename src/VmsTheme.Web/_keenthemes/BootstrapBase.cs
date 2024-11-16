@@ -1,7 +1,7 @@
 
-using VmsTheme.Server._keenthemes.libs;
+using VmsTheme.Web._keenthemes.libs;
 
-namespace VmsTheme.Server._keenthemes;
+namespace VmsTheme.Web._keenthemes;
 
 public class BootstrapBase: IBootstrapBase {
     private IKTTheme _theme = default!;

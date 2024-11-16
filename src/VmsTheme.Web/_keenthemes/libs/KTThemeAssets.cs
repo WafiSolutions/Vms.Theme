@@ -1,9 +1,9 @@
 using System;
 using System.Collections.Generic;
 
-namespace VmsTheme.Server._keenthemes.libs;
+namespace VmsTheme.Web._keenthemes.libs;
 
-class KTThemeAssets
+public class KTThemeAssets
 {
     public string Favicon { get; set; } = String.Empty;
 

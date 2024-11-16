@@ -1,8 +1,8 @@
 
-using VmsTheme.Server._keenthemes.libs;
+using VmsTheme.Web._keenthemes.libs;
 using Volo.Abp.DependencyInjection;
 
-namespace VmsTheme.Server._keenthemes;
+namespace VmsTheme.Web._keenthemes;
 
 public interface IBootstrapBase : ISingletonDependency
 {

@@ -1,8 +1,8 @@
 using Microsoft.Extensions.Configuration;
 
-namespace VmsTheme.Server._keenthemes.libs;
+namespace VmsTheme.Web._keenthemes.libs;
 
-class KTThemeSettings
+public static class KTThemeSettings
 {
     public static KTThemeBase Config = new KTThemeBase();
 

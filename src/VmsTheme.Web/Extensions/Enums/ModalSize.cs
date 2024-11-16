@@ -1,4 +1,4 @@
-﻿namespace VmsTheme.Server.Extensions.Enums;
+﻿namespace VmsTheme.Web.Extensions.Enums;
 
 public enum ModalSize
 {

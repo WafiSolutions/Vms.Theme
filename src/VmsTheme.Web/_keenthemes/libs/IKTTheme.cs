@@ -1,7 +1,7 @@
 ﻿using System;
 using Volo.Abp.DependencyInjection;
 
-namespace VmsTheme.Server._keenthemes.libs;
+namespace VmsTheme.Web._keenthemes.libs;
 
 public interface IKTTheme : ISingletonDependency
 {

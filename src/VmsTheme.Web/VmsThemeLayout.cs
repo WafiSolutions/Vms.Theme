@@ -7,7 +7,7 @@ using Volo.Abp.DependencyInjection;
 namespace VmsTheme.Web;
 
 [ThemeName(Name)]
-public class VmsTheme : ITheme, ITransientDependency
+public class VmsThemeLayout : ITheme, ITransientDependency
 {
     public const string Name = "Vms";
 

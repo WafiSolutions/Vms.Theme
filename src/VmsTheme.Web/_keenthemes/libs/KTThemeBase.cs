@@ -2,10 +2,10 @@
 using System;
 using System.Collections.Generic;
 
-namespace VmsTheme.Server._keenthemes.libs;
+namespace VmsTheme.Web._keenthemes.libs;
 
 // Base type class for theme settings
-class KTThemeBase
+public class KTThemeBase
 {
     public string LayoutDir { get; set; } = String.Empty;
 

@@ -15,11 +15,11 @@ public class VmsThemeWebModule : AbpModule
     {
         Configure<AbpThemingOptions>(options =>
         {
-            options.Themes.Add<VmsTheme>();
+            options.Themes.Add<VmsThemeLayout>();
 
             if (options.DefaultThemeName == null)
             {
-                options.DefaultThemeName = VmsTheme.Name;
+                options.DefaultThemeName = VmsThemeLayout.Name;
             }
         });
 

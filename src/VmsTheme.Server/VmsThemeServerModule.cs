@@ -9,7 +9,7 @@ using Volo.Abp.Modularity;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using VmsTheme.Server._keenthemes.libs;
+using VmsTheme.Web._keenthemes.libs;
 using System.IO;
 using System.Reflection;
 using System;

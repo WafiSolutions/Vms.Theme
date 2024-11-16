@@ -1,9 +1,9 @@
 using Microsoft.Extensions.Configuration;
 using System.Collections.Generic;
 
-namespace VmsTheme.Server._keenthemes.libs;
+namespace VmsTheme.Web._keenthemes.libs;
 
-class KTIconsSettings
+public class KTIconsSettings
 {
     public static SortedDictionary<string, int> Config { get; set; } = new SortedDictionary<string, int>();
 
