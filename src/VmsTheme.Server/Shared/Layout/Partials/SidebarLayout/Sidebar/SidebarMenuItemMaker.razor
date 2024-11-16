@@ -1,0 +1,47 @@
+﻿@namespace VmsTheme.Server.Shared.Layout.Partials.SidebarLayout.Sidebar
+@using Volo.Abp.UI.Navigation
+
+
+@inject NavigationManager Navigation
+
+@{
+    var cssClass = string.IsNullOrEmpty(MenuItem.MenuItem.CssClass) ? string.Empty : MenuItem.MenuItem.CssClass;
+    var customComponentType = MenuItem.MenuItem.GetComponentTypeOrDefault();
+    var currentUri = new Uri(Navigation.Uri);
+    var url = MenuItem.MenuItem.Url == null ? "#" : MenuItem.MenuItem.Url.TrimStart('/', '~');
+}
+
+<div data-kt-menu-trigger="click" class="menu-item here @show menu-accordion">
+    @if (MenuItem.MenuItem.IsLeaf)
+    {
+        <a href="@url" target="@MenuItem.MenuItem.Target"
+           class="menu-link @(MenuItem.IsActive ? "active" : "") @cssClass"
+           id="@MenuItem.MenuItem.ElementId">
+            <span class="menu-icon">
+                <span class="menu-icon">@((MarkupString)MenuItem.MenuItem.Icon)</span>
+            </span>
+            <span class="menu-title">@MenuItem.MenuItem.DisplayName</span>
+        </a>
+    }
+    else
+    {
+        <span class="menu-link @(MenuItem.IsActive || MenuItem.IsOpen ? "selected" : "")"
+        @onclick:preventDefault @onclick="ToggleMenu">
+            <span class="menu-icon">
+                <span class="menu-icon" aria-hidden="true">@((MarkupString)MenuItem.MenuItem.Icon)</span>
+            </span>
+            <span class="menu-title">@MenuItem.MenuItem.DisplayName</span>
+            <span class="menu-arrow"></span>
+        </span>
+
+        <div id="@MenuItem.MenuItem.ElementId" class="menu-sub menu-sub-accordion @(MenuItem.IsOpen ? "show" : "collapsed") @cssClass">
+            @foreach (var childMenuItem in MenuItem.Items)
+            {
+                <div class="menu-item">
+                    <SidebarMenuItemMaker Menu="@Menu" MenuItem="@childMenuItem" />
+                </div>
+            }
+        </div>
+    }
+
+</div>

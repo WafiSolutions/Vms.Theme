@@ -1,0 +1,58 @@
+﻿@inherits VmsThemeComponentBase
+
+<div class="d-flex align-items-center gap-2 gap-lg-3 me-3">
+    <div class="m-0">
+        <a href="#" class="btn btn-sm btn-flex btn-secondary fw-bold" data-kt-menu-trigger="click" data-kt-menu-placement="bottom-end">
+            <i class="ki-duotone ki-filter fs-6 text-muted me-1"><span class="path1"></span><span class="path2"></span></i>
+            @L["Filter"]
+        </a>
+        <div class="menu menu-sub menu-sub-dropdown w-250px w-md-300px" data-kt-menu="true">
+            <div class="px-7 py-5">
+                <div class="fs-5 text-gray-900 fw-bold">@L["Filter:FilterOptions"]</div>
+            </div>
+            <div class="separator border-gray-200"></div>
+            <div class="px-7 py-5">
+                <div class="mb-3">
+                    <label class="form-label fw-semibold">@L["Filter:Keyword"]</label>
+                    <div>
+                        <InputText @bind-Value="@Keyword"
+                                   class="form-control"
+                                   placeholder="Enter a keyword" />
+                    </div>
+                </div>
+                <div class="d-flex justify-content-end">
+                    <button class="btn btn-sm btn-light btn-active-light-primary me-2" data-kt-menu-dismiss="true" @onclick="() => OnResetFilter.InvokeAsync()">
+                        @L["Reset"]
+                    </button>
+                    <button class="btn btn-sm btn-primary" data-kt-menu-dismiss="true" @onclick="() => OnApplyFilter.InvokeAsync()">
+                        @L["Filter:Apply"]
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@code {
+    [Parameter] public EventCallback OnApplyFilter { get; set; }
+    [Parameter] public EventCallback OnResetFilter { get; set; }
+
+    private string _keyword;
+
+    [Parameter]
+    public string Keyword
+    {
+        get => _keyword;
+        set
+        {
+            if (_keyword != value)
+            {
+                _keyword = value;
+                KeywordChanged.InvokeAsync(value);
+            }
+        }
+    }
+
+    [Parameter] public EventCallback<string> KeywordChanged { get; set; }
+     
+}

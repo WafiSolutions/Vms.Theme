@@ -1,0 +1,28 @@
+@using Layout.Partials.SidebarLayout.Search
+@using VmsTheme.Server.Shared.Partials.Menus
+@using VmsTheme.Server.Shared.Partials.ThemeMode
+
+<!--begin::Navbar-->
+<div class="app-navbar flex-shrink-0">
+	<!--end::Activities-->
+	<!--begin::Notifications-->
+	<div class="app-navbar-item ms-1 ms-md-4">
+		<!--begin::Menu- wrapper-->
+		<div class="btn btn-icon btn-custom btn-icon-muted btn-active-light btn-active-color-primary w-35px h-35px" data-kt-menu-trigger="{default: 'click', lg: 'hover'}" data-kt-menu-attach="parent" data-kt-menu-placement="bottom-end" id="kt_menu_item_wow">@((MarkupString)KTTheme.GetIcon("notification-status", "fs-2"))</div>
+		<_NotificationsMenu></_NotificationsMenu>
+
+		<!--end::Menu wrapper-->
+	</div>
+	<!--end::Notifications-->
+	<!--begin::User menu-->
+	<div class="app-navbar-item ms-1 ms-md-4" id="kt_header_user_menu_toggle">
+		<!--begin::Menu wrapper-->
+		<div class="cursor-pointer symbol symbol-35px" data-kt-menu-trigger="{default: 'click', lg: 'hover'}" data-kt-menu-attach="parent" data-kt-menu-placement="bottom-end">
+			<img src='@KTTheme.GetAssetPath("media/avatars/300-3.jpg")' class="rounded-3" alt="user" />
+		</div>
+		<_UserAccountMenu></_UserAccountMenu>
+		<!--end::Menu wrapper-->
+	</div>
+	<!--end::User menu-->
+</div>
+<!--end::Navbar-->
