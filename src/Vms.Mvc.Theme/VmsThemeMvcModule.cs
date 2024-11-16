@@ -16,13 +16,13 @@ namespace Vms.Mvc.Theme;
     typeof(AbpAspNetCoreMvcUiThemeSharedModule),
     typeof(AbpAspNetCoreMvcUiMultiTenancyModule)
     )]
-public class VmsMvcModule : AbpModule
+public class VmsThemeMvcModule : AbpModule
 {
     public override void PreConfigureServices(ServiceConfigurationContext context)
     {
         PreConfigure<IMvcBuilder>(mvcBuilder =>
         {
-            mvcBuilder.AddApplicationPartIfNotExists(typeof(VmsMvcModule).Assembly);
+            mvcBuilder.AddApplicationPartIfNotExists(typeof(VmsThemeMvcModule).Assembly);
         });
     }
 
@@ -40,7 +40,7 @@ public class VmsMvcModule : AbpModule
 
         Configure<AbpVirtualFileSystemOptions>(options =>
         {
-            options.FileSets.AddEmbedded<VmsMvcModule>("Vms.Mvc.Theme");
+            options.FileSets.AddEmbedded<VmsThemeMvcModule>("Vms.Mvc.Theme");
         });
 
         Configure<AbpToolbarOptions>(options =>

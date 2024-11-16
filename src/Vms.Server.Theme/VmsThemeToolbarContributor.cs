@@ -4,7 +4,7 @@ using Volo.Abp.AspNetCore.Components.Web.Theming.Toolbars;
 
 namespace Vms.Server.Theme;
 
-public class VmsToolbarContributor : IToolbarContributor
+public class VmsThemeToolbarContributor : IToolbarContributor
 {
     public Task ConfigureToolbarAsync(IToolbarConfigurationContext context)
     {

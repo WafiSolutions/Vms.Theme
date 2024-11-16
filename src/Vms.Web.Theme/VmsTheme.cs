@@ -1,6 +1,5 @@
 using System;
 using Vms.Web.Theme.Themes.Vms;
-using Vms.Web.Theme.Themes.Vms;
 using Volo.Abp.AspNetCore.Components.Web.Theming.Layout;
 using Volo.Abp.AspNetCore.Components.Web.Theming.Theming;
 using Volo.Abp.DependencyInjection;
@@ -19,9 +18,9 @@ public class VmsTheme : ITheme, ITransientDependency
             case StandardLayouts.Application:
             case StandardLayouts.Account:
             case StandardLayouts.Empty:
-                return typeof(Vms.Web.Theme.Themes.Vms.MainLayout);
+                return typeof(MainLayout);
             default:
-                return fallbackToDefault ? typeof(Vms.Web.Theme.Themes.Vms.MainLayout) : typeof(NullLayout);
+                return fallbackToDefault ? typeof(MainLayout) : typeof(NullLayout);
         }
     }
 }

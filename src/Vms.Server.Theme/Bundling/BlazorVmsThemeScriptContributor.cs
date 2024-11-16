@@ -2,7 +2,7 @@
 
 namespace Vms.Server.Theme.Bundling;
 
-public class BlazorVmsScriptContributor : BundleContributor
+public class BlazorVmsThemeScriptContributor : BundleContributor
 {
 
 }

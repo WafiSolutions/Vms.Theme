@@ -3,7 +3,7 @@ using Volo.Abp.AspNetCore.Mvc.UI.Bundling;
 
 namespace Vms.Server.Theme.Bundling;
 
-public class BlazorVmsStyleContributor : BundleContributor
+public class BlazorVmsThemeStyleContributor : BundleContributor
 {
     public override void ConfigureBundle(BundleConfigurationContext context)
     {

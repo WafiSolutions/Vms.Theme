@@ -1,8 +1,9 @@
-﻿using Microsoft.AspNetCore.Components.Authorization;
+﻿using System.Threading.Tasks;
+using Microsoft.AspNetCore.Components.Authorization;
 using Microsoft.Extensions.DependencyInjection;
-using System.Threading.Tasks;
-using Vms.WebAssembly.Theme.Themes.Vms;
 using Volo.Abp.AspNetCore.Components.Web.Theming.Toolbars;
+using Vms.WebAssembly.Theme.Themes.Vms;
+using Volo.Abp.DependencyInjection;
 
 namespace Vms.WebAssembly.Theme;
 

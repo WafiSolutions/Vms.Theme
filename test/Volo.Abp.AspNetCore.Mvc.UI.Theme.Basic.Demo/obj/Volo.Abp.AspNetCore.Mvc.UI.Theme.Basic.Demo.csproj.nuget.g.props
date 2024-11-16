@@ -13,9 +13,9 @@
     <SourceRoot Include="C:\Users\jinhr\.nuget\packages\" />
   </ItemGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <Content Include="$(NuGetPackageRoot)volo.abp.aspnetcore.mvc.ui.theme.shared.demo\8.3.3\contentFiles\any\net8.0\Volo.Abp.AspNetCore.Mvc.UI.Theme.Shared.Demo.abppkg.analyze.json" Condition="Exists('$(NuGetPackageRoot)volo.abp.aspnetcore.mvc.ui.theme.shared.demo\8.3.3\contentFiles\any\net8.0\Volo.Abp.AspNetCore.Mvc.UI.Theme.Shared.Demo.abppkg.analyze.json')">
+    <Content Include="$(NuGetPackageRoot)volo.abp.aspnetcore.mvc.ui.theme.shared.demo\8.3.2\contentFiles\any\net8.0\Volo.Abp.AspNetCore.Mvc.UI.Theme.Shared.Demo.abppkg.analyze.json" Condition="Exists('$(NuGetPackageRoot)volo.abp.aspnetcore.mvc.ui.theme.shared.demo\8.3.2\contentFiles\any\net8.0\Volo.Abp.AspNetCore.Mvc.UI.Theme.Shared.Demo.abppkg.analyze.json')">
       <NuGetPackageId>Volo.Abp.AspNetCore.Mvc.UI.Theme.Shared.Demo</NuGetPackageId>
-      <NuGetPackageVersion>8.3.3</NuGetPackageVersion>
+      <NuGetPackageVersion>8.3.2</NuGetPackageVersion>
       <NuGetItemType>Content</NuGetItemType>
       <Pack>false</Pack>
       <Private>False</Private>

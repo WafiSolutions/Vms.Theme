@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\Takamol\\Vms.Theme\\test\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo.csproj": {}
+    "E:\\Projects\\Takamol\\Basic.Theme.Module\\test\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\Takamol\\Vms.Theme\\src\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic\\Vms.Mvc.Theme.csproj": {
+    "E:\\Projects\\Takamol\\Basic.Theme.Module\\src\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic\\Vms.Mvc.Theme.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\Takamol\\Vms.Theme\\src\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic\\Vms.Mvc.Theme.csproj",
-        "projectName": "Vms.Mvc.Theme",
-        "projectPath": "E:\\Projects\\Takamol\\Vms.Theme\\src\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic\\Vms.Mvc.Theme.csproj",
+        "projectUniqueName": "E:\\Projects\\Takamol\\Basic.Theme.Module\\src\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic\\Vms.Mvc.Theme.csproj",
+        "projectName": "Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic",
+        "projectPath": "E:\\Projects\\Takamol\\Basic.Theme.Module\\src\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic\\Vms.Mvc.Theme.csproj",
         "packagesPath": "C:\\Users\\jinhr\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\Takamol\\Vms.Theme\\src\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic\\obj\\",
+        "outputPath": "E:\\Projects\\Takamol\\Basic.Theme.Module\\src\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic\\obj\\",
         "projectStyle": "PackageReference",
         "centralPackageVersionsManagementEnabled": true,
         "configFilePaths": [
@@ -48,13 +48,13 @@
           "dependencies": {
             "Volo.Abp.AspNetCore.Mvc.UI.MultiTenancy": {
               "target": "Package",
-              "version": "[8.3.3, )",
-              "versionOverride": "[8.3.3, )"
+              "version": "[8.3.2, )",
+              "versionOverride": "[8.3.2, )"
             },
             "Volo.Abp.AspNetCore.Mvc.UI.Theme.Shared": {
               "target": "Package",
-              "version": "[8.3.3, )",
-              "versionOverride": "[8.3.3, )"
+              "version": "[8.3.2, )",
+              "versionOverride": "[8.3.2, )"
             }
           },
           "centralPackageVersions": {
@@ -250,14 +250,14 @@
         }
       }
     },
-    "E:\\Projects\\Takamol\\Vms.Theme\\test\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo.csproj": {
+    "E:\\Projects\\Takamol\\Basic.Theme.Module\\test\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\Takamol\\Vms.Theme\\test\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo.csproj",
+        "projectUniqueName": "E:\\Projects\\Takamol\\Basic.Theme.Module\\test\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo.csproj",
         "projectName": "Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo",
-        "projectPath": "E:\\Projects\\Takamol\\Vms.Theme\\test\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo.csproj",
+        "projectPath": "E:\\Projects\\Takamol\\Basic.Theme.Module\\test\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo.csproj",
         "packagesPath": "C:\\Users\\jinhr\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\Takamol\\Vms.Theme\\test\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo\\obj\\",
+        "outputPath": "E:\\Projects\\Takamol\\Basic.Theme.Module\\test\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo\\obj\\",
         "projectStyle": "PackageReference",
         "centralPackageVersionsManagementEnabled": true,
         "configFilePaths": [
@@ -275,8 +275,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Projects\\Takamol\\Vms.Theme\\src\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic\\Vms.Mvc.Theme.csproj": {
-                "projectPath": "E:\\Projects\\Takamol\\Vms.Theme\\src\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic\\Vms.Mvc.Theme.csproj"
+              "E:\\Projects\\Takamol\\Basic.Theme.Module\\src\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic\\Vms.Mvc.Theme.csproj": {
+                "projectPath": "E:\\Projects\\Takamol\\Basic.Theme.Module\\src\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic\\Vms.Mvc.Theme.csproj"
               }
             }
           }
@@ -313,13 +313,13 @@
             },
             "Volo.Abp.AspNetCore.Mvc.UI.Theme.Shared.Demo": {
               "target": "Package",
-              "version": "[8.3.3, )",
-              "versionOverride": "[8.3.3, )"
+              "version": "[8.3.2, )",
+              "versionOverride": "[8.3.2, )"
             },
             "Volo.Abp.Autofac": {
               "target": "Package",
-              "version": "[8.3.3, )",
-              "versionOverride": "[8.3.3, )"
+              "version": "[8.3.2, )",
+              "versionOverride": "[8.3.2, )"
             }
           },
           "centralPackageVersions": {

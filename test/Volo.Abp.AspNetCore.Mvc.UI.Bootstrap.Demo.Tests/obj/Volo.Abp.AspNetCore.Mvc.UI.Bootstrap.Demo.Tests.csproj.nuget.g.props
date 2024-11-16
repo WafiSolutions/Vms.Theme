@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">False</RestoreSuccess>
     <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
     <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
     <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
@@ -13,9 +13,9 @@
     <SourceRoot Include="C:\Users\jinhr\.nuget\packages\" />
   </ItemGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <Content Include="$(NuGetPackageRoot)volo.abp.aspnetcore.testbase\8.3.3\contentFiles\any\net8.0\Volo.Abp.AspNetCore.TestBase.abppkg.analyze.json" Condition="Exists('$(NuGetPackageRoot)volo.abp.aspnetcore.testbase\8.3.3\contentFiles\any\net8.0\Volo.Abp.AspNetCore.TestBase.abppkg.analyze.json')">
+    <Content Include="$(NuGetPackageRoot)volo.abp.aspnetcore.testbase\8.3.2\contentFiles\any\net8.0\Volo.Abp.AspNetCore.TestBase.abppkg.analyze.json" Condition="Exists('$(NuGetPackageRoot)volo.abp.aspnetcore.testbase\8.3.2\contentFiles\any\net8.0\Volo.Abp.AspNetCore.TestBase.abppkg.analyze.json')">
       <NuGetPackageId>Volo.Abp.AspNetCore.TestBase</NuGetPackageId>
-      <NuGetPackageVersion>8.3.3</NuGetPackageVersion>
+      <NuGetPackageVersion>8.3.2</NuGetPackageVersion>
       <NuGetItemType>Content</NuGetItemType>
       <Pack>false</Pack>
       <Private>False</Private>
@@ -23,9 +23,9 @@
     </Content>
   </ItemGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <Content Include="$(NuGetPackageRoot)volo.abp.aspnetcore.mvc\8.3.3\contentFiles\any\net8.0\Volo.Abp.AspNetCore.Mvc.abppkg.analyze.json" Condition="Exists('$(NuGetPackageRoot)volo.abp.aspnetcore.mvc\8.3.3\contentFiles\any\net8.0\Volo.Abp.AspNetCore.Mvc.abppkg.analyze.json')">
+    <Content Include="$(NuGetPackageRoot)volo.abp.aspnetcore.mvc\8.3.2\contentFiles\any\net8.0\Volo.Abp.AspNetCore.Mvc.abppkg.analyze.json" Condition="Exists('$(NuGetPackageRoot)volo.abp.aspnetcore.mvc\8.3.2\contentFiles\any\net8.0\Volo.Abp.AspNetCore.Mvc.abppkg.analyze.json')">
       <NuGetPackageId>Volo.Abp.AspNetCore.Mvc</NuGetPackageId>
-      <NuGetPackageVersion>8.3.3</NuGetPackageVersion>
+      <NuGetPackageVersion>8.3.2</NuGetPackageVersion>
       <NuGetItemType>Content</NuGetItemType>
       <Pack>false</Pack>
       <Private>False</Private>

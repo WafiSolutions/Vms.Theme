@@ -7,7 +7,7 @@ namespace Vms.Web.Theme;
 [DependsOn(
     typeof(AbpAspNetCoreComponentsWebThemingModule)
 )]
-public class VmsWebModule : AbpModule
+public class VmsThemeWebModule : AbpModule
 {
     public override void ConfigureServices(ServiceConfigurationContext context)
     {

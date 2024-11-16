@@ -14,12 +14,12 @@
       "path": "test/Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo/Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo.abppkg",
       "folder": "test"
     },
-    "Vms.Server.Theme": {
-      "path": "src/Vms.Server.Theme/Vms.Server.Theme.abppkg",
+    "Volo.Abp.AspNetCore.Components.Server.BasicTheme": {
+      "path": "src/Volo.Abp.AspNetCore.Components.Server.BasicTheme/Volo.Abp.AspNetCore.Components.Server.BasicTheme.abppkg",
       "folder": "src"
     },
-    "Vms.Web.Theme": {
-      "path": "src/Vms.Web.Theme/Vms.Web.Theme.abppkg",
+    "Volo.Abp.AspNetCore.Components.Web.BasicTheme": {
+      "path": "src/Volo.Abp.AspNetCore.Components.Web.BasicTheme/Volo.Abp.AspNetCore.Components.Web.BasicTheme.abppkg",
       "folder": "src"
     },
     "Volo.Abp.AspNetCore.Components.WebAssembly.BasicTheme": {

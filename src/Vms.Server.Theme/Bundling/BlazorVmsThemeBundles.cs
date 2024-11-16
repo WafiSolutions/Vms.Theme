@@ -1,6 +1,6 @@
 ﻿namespace Vms.Server.Theme.Bundling;
 
-public class BlazorVmsBundles
+public class BlazorVmsThemeBundles
 {
     public static class Styles
     {
