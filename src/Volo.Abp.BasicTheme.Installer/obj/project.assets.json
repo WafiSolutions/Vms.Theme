@@ -988,7 +988,7 @@
           }
         }
       },
-      "Volo.Abp.Core/8.3.3": {
+      "Volo.Abp.Core/8.3.2": {
         "type": "package",
         "dependencies": {
           "JetBrains.Annotations": "2023.3.0",
@@ -1019,13 +1019,13 @@
           }
         }
       },
-      "Volo.Abp.VirtualFileSystem/8.3.3": {
+      "Volo.Abp.VirtualFileSystem/8.3.2": {
         "type": "package",
         "dependencies": {
           "Microsoft.Extensions.FileProviders.Composite": "8.0.0",
           "Microsoft.Extensions.FileProviders.Embedded": "8.0.4",
           "Microsoft.Extensions.FileProviders.Physical": "8.0.0",
-          "Volo.Abp.Core": "8.3.3"
+          "Volo.Abp.Core": "8.3.2"
         },
         "compile": {
           "lib/net8.0/Volo.Abp.VirtualFileSystem.dll": {
@@ -3558,10 +3558,10 @@
         "system.threading.tasks.nuspec"
       ]
     },
-    "Volo.Abp.Core/8.3.3": {
-      "sha512": "u8BlSyT1MfBLe0votDLTQ9EldcROsHzs/how05G038OXNoY4Z/WgZ/pnnsctA9nmdCcSPEV4t9zDIbJ3EsSofA==",
+    "Volo.Abp.Core/8.3.2": {
+      "sha512": "L7W/aS6rWwEyTfF01B5jnOVxSccPbWmS7M0pRwUahVRzM6tYTJUXUw61faMJubDlplVi/ZD+LQGDvZs++/cAMw==",
       "type": "package",
-      "path": "volo.abp.core/8.3.3",
+      "path": "volo.abp.core/8.3.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -3577,14 +3577,14 @@
         "lib/netstandard2.1/Volo.Abp.Core.dll",
         "lib/netstandard2.1/Volo.Abp.Core.pdb",
         "lib/netstandard2.1/Volo.Abp.Core.xml",
-        "volo.abp.core.8.3.3.nupkg.sha512",
+        "volo.abp.core.8.3.2.nupkg.sha512",
         "volo.abp.core.nuspec"
       ]
     },
-    "Volo.Abp.VirtualFileSystem/8.3.3": {
-      "sha512": "xZybWGjZOfYlnJhqAvDTMwcOhV30o/EYmFg+s5HjDlKDb0huB4cfZgzNvQG4MKPhXrwfr7L/g2TL05ewNMYw1A==",
+    "Volo.Abp.VirtualFileSystem/8.3.2": {
+      "sha512": "MbgnRvct8Vq3txh3WPYyHuOS4x2UjNB1pqmPkUtHjc+jdjkh5jS0MqGxuN95sNYjAdI0fdLcqE3K4/Y4wbtlmA==",
       "type": "package",
-      "path": "volo.abp.virtualfilesystem/8.3.3",
+      "path": "volo.abp.virtualfilesystem/8.3.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -3600,14 +3600,14 @@
         "lib/netstandard2.1/Volo.Abp.VirtualFileSystem.dll",
         "lib/netstandard2.1/Volo.Abp.VirtualFileSystem.pdb",
         "lib/netstandard2.1/Volo.Abp.VirtualFileSystem.xml",
-        "volo.abp.virtualfilesystem.8.3.3.nupkg.sha512",
+        "volo.abp.virtualfilesystem.8.3.2.nupkg.sha512",
         "volo.abp.virtualfilesystem.nuspec"
       ]
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Volo.Abp.VirtualFileSystem >= 8.3.3"
+      "Volo.Abp.VirtualFileSystem >= 8.3.2"
     ]
   },
   "packageFolders": {
@@ -3657,8 +3657,8 @@
         "dependencies": {
           "Volo.Abp.VirtualFileSystem": {
             "target": "Package",
-            "version": "[8.3.3, )",
-            "versionOverride": "[8.3.3, )"
+            "version": "[8.3.2, )",
+            "versionOverride": "[8.3.2, )"
           }
         },
         "centralPackageVersions": {

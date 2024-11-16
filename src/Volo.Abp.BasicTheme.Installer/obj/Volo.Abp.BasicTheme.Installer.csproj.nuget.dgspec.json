@@ -48,8 +48,8 @@
           "dependencies": {
             "Volo.Abp.VirtualFileSystem": {
               "target": "Package",
-              "version": "[8.3.3, )",
-              "versionOverride": "[8.3.3, )"
+              "version": "[8.3.2, )",
+              "versionOverride": "[8.3.2, )"
             }
           },
           "centralPackageVersions": {

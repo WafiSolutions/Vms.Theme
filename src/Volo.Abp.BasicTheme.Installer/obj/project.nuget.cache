@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "QwgHD85t8DDnRWfYNjtjbovzA5YzD94GLuyzNaO7ipXAS17/OmJUzFCcTgXr3br0NfvUO6/GN4Y5TIHBwRUA3A==",
+  "dgSpecHash": "naAxD4c8Et4qjoZHm7aoBvR99MRF0BP6qyCdYTBXbvP5JhtIJZGn4QNp7QajEeSsAHRHSsxtPDvvoMXQC+/vOA==",
   "success": true,
   "projectFilePath": "E:\\Projects\\Takamol\\Vms.Theme\\src\\Volo.Abp.BasicTheme.Installer\\Volo.Abp.BasicTheme.Installer.csproj",
   "expectedPackageFiles": [
@@ -61,8 +61,8 @@
     "C:\\Users\\jinhr\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512",
     "C:\\Users\\jinhr\\.nuget\\packages\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512",
     "C:\\Users\\jinhr\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
-    "C:\\Users\\jinhr\\.nuget\\packages\\volo.abp.core\\8.3.3\\volo.abp.core.8.3.3.nupkg.sha512",
-    "C:\\Users\\jinhr\\.nuget\\packages\\volo.abp.virtualfilesystem\\8.3.3\\volo.abp.virtualfilesystem.8.3.3.nupkg.sha512"
+    "C:\\Users\\jinhr\\.nuget\\packages\\volo.abp.core\\8.3.2\\volo.abp.core.8.3.2.nupkg.sha512",
+    "C:\\Users\\jinhr\\.nuget\\packages\\volo.abp.virtualfilesystem\\8.3.2\\volo.abp.virtualfilesystem.8.3.2.nupkg.sha512"
   ],
   "logs": []
 }

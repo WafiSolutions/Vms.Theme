@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Razor">
+﻿<Project Sdk="Microsoft.NET.Sdk.Razor">
 
     
     
@@ -10,8 +10,8 @@
 
     <ItemGroup>
         <ProjectReference Include="..\Vms.Web.Theme\Vms.Web.Theme.csproj" />
-        <PackageReference Include="Volo.Abp.AspNetCore.Components.WebAssembly.Theming" VersionOverride="8.3.3" />
-        <PackageReference Include="Volo.Abp.Http.Client.IdentityModel.WebAssembly" VersionOverride="8.3.3" />
+        <PackageReference Include="Volo.Abp.AspNetCore.Components.WebAssembly.Theming" VersionOverride="8.3.2" />
+        <PackageReference Include="Volo.Abp.Http.Client.IdentityModel.WebAssembly" VersionOverride="8.3.2" />
     </ItemGroup>
 
 </Project>
