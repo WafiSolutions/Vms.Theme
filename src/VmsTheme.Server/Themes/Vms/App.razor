@@ -1,11 +1,15 @@
+@using Layout
 @using Microsoft.Extensions.Options
+@using VmsTheme.Server.Pages.Error
 @using Volo.Abp.AspNetCore.Components.Web.Theming.Routing
+@using VmsTheme.Web.Themes.Vms
 @inject IOptions<AbpRouterOptions> RouterOptions
+
 <CascadingAuthenticationState>
     <Router AppAssembly="RouterOptions.Value.AppAssembly"
             AdditionalAssemblies="RouterOptions.Value.AdditionalAssemblies">
         <Found Context="routeData">
-            <AuthorizeRouteView RouteData="@routeData" DefaultLayout="@typeof(MainLayout)">
+            <AuthorizeRouteView RouteData="@routeData" DefaultLayout="@typeof(DefaultDarkSidebar)">
                 <NotAuthorized>
                     @if (!context.User.Identity.IsAuthenticated)
                     {
@@ -17,10 +21,12 @@
                     }
                 </NotAuthorized>
             </AuthorizeRouteView>
+            <FocusOnNavigate RouteData="@routeData" Selector="h1" />
         </Found>
         <NotFound>
-            <LayoutView Layout="@typeof(MainLayout)">
-                <p>Sorry, there's nothing at this address.</p>
+            <PageTitle>Not found</PageTitle>
+            <LayoutView Layout="@typeof(SystemLayout)">
+                <PageNotFound></PageNotFound>
             </LayoutView>
         </NotFound>
     </Router>
