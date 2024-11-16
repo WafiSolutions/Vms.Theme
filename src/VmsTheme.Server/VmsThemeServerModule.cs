@@ -6,6 +6,13 @@ using Volo.Abp.AspNetCore.Components.Web.Theming.Routing;
 using Volo.Abp.AspNetCore.Components.Web.Theming.Toolbars;
 using Volo.Abp.AspNetCore.Mvc.UI.Bundling;
 using Volo.Abp.Modularity;
+using Microsoft.AspNetCore.Http;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
+using VmsTheme.Server._keenthemes.libs;
+using System.IO;
+using System.Reflection;
+using System;
 
 namespace VmsTheme.Server;
 
@@ -42,5 +49,23 @@ public class VmsThemeServerModule : AbpModule
                         .AddContributors(typeof(BlazorVmsThemeScriptContributor));
                 });
         });
+
+        ConfigureTheme(context);
+    }
+
+    private void ConfigureTheme(ServiceConfigurationContext context)
+    {
+        context.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+
+        IConfiguration themeConfiguration = new ConfigurationBuilder()
+                                    .AddJsonFile("_keenthemes/config/themesettings.json")
+                                    .Build();
+
+        IConfiguration iconsConfiguration = new ConfigurationBuilder()
+                                    .AddJsonFile("_keenthemes/config/icons.json")
+                                    .Build();
+
+        KTThemeSettings.init(themeConfiguration);
+        KTIconsSettings.init(iconsConfiguration);
     }
 }
