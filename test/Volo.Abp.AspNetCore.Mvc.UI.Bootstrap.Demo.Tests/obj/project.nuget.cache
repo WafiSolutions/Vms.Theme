@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "gC6U3aZkgGIsfJ0uv2G+GtHIlSdAgem3wkYMLtHCfQSi3Ebe5Un2w1DGUZxScLGpkH9JPiBkoKnjlZetmUmekQ==",
-  "success": false,
+  "dgSpecHash": "mGXGmtix6Vm/1n3lhvYFDJxWlUrXqlL/LICyFsNujScNvC5mjdDMYlfiqnqFxJjYwPer1v4qWarFtjaVxSrinA==",
+  "success": true,
   "projectFilePath": "E:\\Projects\\Takamol\\Vms.Theme\\test\\Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo.Tests\\Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jinhr\\.nuget\\packages\\asp.versioning.abstractions\\8.1.0\\asp.versioning.abstractions.8.1.0.nupkg.sha512",
@@ -282,8 +282,17 @@
     "C:\\Users\\jinhr\\.nuget\\packages\\volo.abp.apiversioning.abstractions\\8.3.2\\volo.abp.apiversioning.abstractions.8.3.2.nupkg.sha512",
     "C:\\Users\\jinhr\\.nuget\\packages\\volo.abp.aspnetcore\\8.3.2\\volo.abp.aspnetcore.8.3.2.nupkg.sha512",
     "C:\\Users\\jinhr\\.nuget\\packages\\volo.abp.aspnetcore.abstractions\\8.3.2\\volo.abp.aspnetcore.abstractions.8.3.2.nupkg.sha512",
+    "C:\\Users\\jinhr\\.nuget\\packages\\volo.abp.aspnetcore.multitenancy\\8.3.2\\volo.abp.aspnetcore.multitenancy.8.3.2.nupkg.sha512",
     "C:\\Users\\jinhr\\.nuget\\packages\\volo.abp.aspnetcore.mvc\\8.3.2\\volo.abp.aspnetcore.mvc.8.3.2.nupkg.sha512",
     "C:\\Users\\jinhr\\.nuget\\packages\\volo.abp.aspnetcore.mvc.contracts\\8.3.2\\volo.abp.aspnetcore.mvc.contracts.8.3.2.nupkg.sha512",
+    "C:\\Users\\jinhr\\.nuget\\packages\\volo.abp.aspnetcore.mvc.ui\\8.3.2\\volo.abp.aspnetcore.mvc.ui.8.3.2.nupkg.sha512",
+    "C:\\Users\\jinhr\\.nuget\\packages\\volo.abp.aspnetcore.mvc.ui.bootstrap\\8.3.2\\volo.abp.aspnetcore.mvc.ui.bootstrap.8.3.2.nupkg.sha512",
+    "C:\\Users\\jinhr\\.nuget\\packages\\volo.abp.aspnetcore.mvc.ui.bundling\\8.3.2\\volo.abp.aspnetcore.mvc.ui.bundling.8.3.2.nupkg.sha512",
+    "C:\\Users\\jinhr\\.nuget\\packages\\volo.abp.aspnetcore.mvc.ui.bundling.abstractions\\8.3.2\\volo.abp.aspnetcore.mvc.ui.bundling.abstractions.8.3.2.nupkg.sha512",
+    "C:\\Users\\jinhr\\.nuget\\packages\\volo.abp.aspnetcore.mvc.ui.multitenancy\\8.3.2\\volo.abp.aspnetcore.mvc.ui.multitenancy.8.3.2.nupkg.sha512",
+    "C:\\Users\\jinhr\\.nuget\\packages\\volo.abp.aspnetcore.mvc.ui.packages\\8.3.2\\volo.abp.aspnetcore.mvc.ui.packages.8.3.2.nupkg.sha512",
+    "C:\\Users\\jinhr\\.nuget\\packages\\volo.abp.aspnetcore.mvc.ui.theme.shared\\8.3.2\\volo.abp.aspnetcore.mvc.ui.theme.shared.8.3.2.nupkg.sha512",
+    "C:\\Users\\jinhr\\.nuget\\packages\\volo.abp.aspnetcore.mvc.ui.widgets\\8.3.2\\volo.abp.aspnetcore.mvc.ui.widgets.8.3.2.nupkg.sha512",
     "C:\\Users\\jinhr\\.nuget\\packages\\volo.abp.aspnetcore.testbase\\8.3.2\\volo.abp.aspnetcore.testbase.8.3.2.nupkg.sha512",
     "C:\\Users\\jinhr\\.nuget\\packages\\volo.abp.auditing\\8.3.2\\volo.abp.auditing.8.3.2.nupkg.sha512",
     "C:\\Users\\jinhr\\.nuget\\packages\\volo.abp.auditing.contracts\\8.3.2\\volo.abp.auditing.contracts.8.3.2.nupkg.sha512",
@@ -343,15 +352,5 @@
     "C:\\Users\\jinhr\\.nuget\\packages\\xunit.runner.visualstudio\\2.5.3\\xunit.runner.visualstudio.2.5.3.nupkg.sha512",
     "C:\\Users\\jinhr\\.nuget\\packages\\yamldotnet\\13.1.1\\yamldotnet.13.1.1.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'E:\\Projects\\Takamol\\Vms.Theme\\src\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic\\Vms.Mvc.Theme.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "E:\\Projects\\Takamol\\Vms.Theme\\src\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic\\Vms.Mvc.Theme.csproj",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  "logs": []
 }

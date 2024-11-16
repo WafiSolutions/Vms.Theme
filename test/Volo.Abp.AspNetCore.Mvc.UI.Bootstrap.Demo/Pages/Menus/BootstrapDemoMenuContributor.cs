@@ -4,7 +4,7 @@ using System.Threading.Tasks;
 using Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo.Pages.Menus;
 using Volo.Abp.UI.Navigation;
 
-namespace Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo.Menus;
+namespace Vms.Mvc.Theme.Demo.Menus;
 
 public class BootstrapDemoMenuContributor : IMenuContributor
 {

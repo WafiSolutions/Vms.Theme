@@ -6,8 +6,8 @@
   <PropertyGroup><LangVersion>latest</LangVersion>
     <TargetFramework>net8.0</TargetFramework>
     <AddRazorSupportForMvc>true</AddRazorSupportForMvc>
-    <AssemblyName>Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic</AssemblyName>
-    <PackageId>Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic</PackageId>
+    <AssemblyName>Vms.Mvc.Theme</AssemblyName>
+    <PackageId>Vms.Mvc.Theme</PackageId>
     <AssetTargetFallback>$(AssetTargetFallback);portable-net45+win8+wp8+wpa81;</AssetTargetFallback>
     <GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>
     <GenerateAssemblyCompanyAttribute>false</GenerateAssemblyCompanyAttribute>

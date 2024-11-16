@@ -6,8 +6,8 @@
       "namespace": "Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo",
       "dependsOnModules": [
         {
-          "declaringAssemblyName": "Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic",
-          "namespace": "Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic",
+          "declaringAssemblyName": "Vms.Mvc.Theme",
+          "namespace": "Vms.Mvc.Theme",
           "name": "AbpAspNetCoreMvcUiBasicThemeModule"
         },
         {
