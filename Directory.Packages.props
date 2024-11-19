@@ -167,6 +167,10 @@
     <PackageVersion Include="System.IdentityModel.Tokens.Jwt" Version="7.5.1" />
     <PackageVersion Include="TimeZoneConverter" Version="6.1.0" />
     <PackageVersion Include="Unidecode.NET" Version="2.1.0" />
+    <PackageVersion Include="Volo.Abp.Account.Web.OpenIddict" Version="8.3.2" />
+    <PackageVersion Include="Volo.Abp.AutoMapper" Version="8.3.2" />
+    <PackageVersion Include="Volo.Abp.Identity.AspNetCore" Version="8.3.2" />
+    <PackageVersion Include="Volo.Abp.Localization" Version="8.3.2" />
     <PackageVersion Include="xunit" Version="2.6.1" />
     <PackageVersion Include="xunit.extensibility.execution" Version="2.6.1" />
     <PackageVersion Include="xunit.runner.visualstudio" Version="2.5.3" />

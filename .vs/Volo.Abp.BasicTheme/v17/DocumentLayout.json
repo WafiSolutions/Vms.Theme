@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projects\\Takamol\\Basic.Theme.Module\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95954B0B-9FE0-4351-B1F2-53DDF03F0738}|src\\Volo.Abp.AspNetCore.Components.WebAssembly.BasicTheme\\Vms.WebAssembly.Theme.csproj|e:\\projects\\takamol\\basic.theme.module\\src\\volo.abp.aspnetcore.components.webassembly.basictheme\\vmsthemewebassemblymodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95954B0B-9FE0-4351-B1F2-53DDF03F0738}|src\\Volo.Abp.AspNetCore.Components.WebAssembly.BasicTheme\\Vms.WebAssembly.Theme.csproj|solutionrelative:src\\volo.abp.aspnetcore.components.webassembly.basictheme\\vmsthemewebassemblymodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VmsThemeWebAssemblyModule.cs",
+              "DocumentMoniker": "E:\\Projects\\Takamol\\Basic.Theme.Module\\src\\Volo.Abp.AspNetCore.Components.WebAssembly.BasicTheme\\VmsThemeWebAssemblyModule.cs",
+              "RelativeDocumentMoniker": "src\\Volo.Abp.AspNetCore.Components.WebAssembly.BasicTheme\\VmsThemeWebAssemblyModule.cs",
+              "ToolTip": "E:\\Projects\\Takamol\\Basic.Theme.Module\\src\\Volo.Abp.AspNetCore.Components.WebAssembly.BasicTheme\\VmsThemeWebAssemblyModule.cs",
+              "RelativeToolTip": "src\\Volo.Abp.AspNetCore.Components.WebAssembly.BasicTheme\\VmsThemeWebAssemblyModule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T01:03:50.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

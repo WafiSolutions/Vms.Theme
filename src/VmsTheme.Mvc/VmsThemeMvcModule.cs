@@ -9,12 +9,14 @@ using Volo.Abp.AspNetCore.Mvc.UI.Theme.Shared.Toolbars;
 using Volo.Abp.AspNetCore.Mvc.UI.Theming;
 using Volo.Abp.Modularity;
 using Volo.Abp.VirtualFileSystem;
+using Volo.Abp.Account.Web;
 
 namespace VmsTheme.Mvc;
 
 [DependsOn(
     typeof(AbpAspNetCoreMvcUiThemeSharedModule),
-    typeof(AbpAspNetCoreMvcUiMultiTenancyModule)
+    typeof(AbpAspNetCoreMvcUiMultiTenancyModule),
+    typeof(AbpAccountWebOpenIddictModule)
     )]
 public class VmsThemeMvcModule : AbpModule
 {

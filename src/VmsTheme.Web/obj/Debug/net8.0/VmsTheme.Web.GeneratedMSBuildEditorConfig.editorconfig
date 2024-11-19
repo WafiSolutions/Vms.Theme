@@ -1,0 +1,69 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = VmsTheme.Web
+build_property.RootNamespace = VmsTheme.Web
+build_property.ProjectDir = E:\Vms.Theme\Vms.Theme\src\VmsTheme.Web\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\Vms.Theme\Vms.Theme\src\VmsTheme.Web
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[E:/Vms.Theme/Vms.Theme/src/VmsTheme.Web/Themes/Vms/AppWithoutAuth.razor]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXFZtc1xBcHBXaXRob3V0QXV0aC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Vms.Theme/Vms.Theme/src/VmsTheme.Web/Themes/Vms/Branding.razor]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXFZtc1xCcmFuZGluZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Vms.Theme/Vms.Theme/src/VmsTheme.Web/Themes/Vms/FirstLevelNavMenuItem.razor]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXFZtc1xGaXJzdExldmVsTmF2TWVudUl0ZW0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Vms.Theme/Vms.Theme/src/VmsTheme.Web/Themes/Vms/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXFZtc1xNYWluTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Vms.Theme/Vms.Theme/src/VmsTheme.Web/Themes/Vms/Navigation/MainMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXFZtc1xOYXZpZ2F0aW9uXE1haW5NZW51LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Vms.Theme/Vms.Theme/src/VmsTheme.Web/Themes/Vms/Navigation/MainMenuItem.razor]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXFZtc1xOYXZpZ2F0aW9uXE1haW5NZW51SXRlbS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Vms.Theme/Vms.Theme/src/VmsTheme.Web/Themes/Vms/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXFZtc1xOYXZNZW51LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Vms.Theme/Vms.Theme/src/VmsTheme.Web/Themes/Vms/NavToolbar.razor]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXFZtc1xOYXZUb29sYmFyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Vms.Theme/Vms.Theme/src/VmsTheme.Web/Themes/Vms/NullLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXFZtc1xOdWxsTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Vms.Theme/Vms.Theme/src/VmsTheme.Web/Themes/Vms/RedirectToLogin.razor]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXFZtc1xSZWRpcmVjdFRvTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Vms.Theme/Vms.Theme/src/VmsTheme.Web/Themes/Vms/SecondLevelNavMenuItem.razor]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXFZtc1xTZWNvbmRMZXZlbE5hdk1lbnVJdGVtLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Vms.Theme/Vms.Theme/src/VmsTheme.Web/Themes/Vms/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXFZtc1xfSW1wb3J0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,2677 @@
+{
+  "Version": 1,
+  "Hash": "8LYXqpf1xouyrnXjIgsJG03rMTt15gResDg4OuapESw=",
+  "Source": "VmsTheme.Web",
+  "BasePath": "_content/VmsTheme.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "VmsTheme.Web\\wwwroot",
+      "Source": "VmsTheme.Web",
+      "ContentRoot": "E:\\Vms.Theme\\Vms.Theme\\src\\VmsTheme.Web\\wwwroot\\",
+      "BasePath": "_content/VmsTheme.Web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\smhas\\.nuget\\packages\\blazorise.datagrid\\1.5.2\\staticwebassets\\datagrid.js",
+      "SourceId": "Blazorise.DataGrid",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\smhas\\.nuget\\packages\\blazorise.datagrid\\1.5.2\\staticwebassets\\",
+      "BasePath": "_content/Blazorise.DataGrid",
+      "RelativePath": "datagrid.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fi1zevqe7f",
+      "Integrity": "mUP0fqdTJHmuJiop3+lm3oaq938gh5HIHNzG5KnRiIQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\smhas\\.nuget\\packages\\blazorise.datagrid\\1.5.2\\staticwebassets\\datagrid.js"
+    },
+    {
+      "Identity": "C:\\Users\\smhas\\.nuget\\packages\\blazorise.snackbar\\1.5.2\\staticwebassets\\blazorise.snackbar.css",
+      "SourceId": "Blazorise.Snackbar",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\smhas\\.nuget\\packages\\blazorise.snackbar\\1.5.2\\staticwebassets\\",
+      "BasePath": "_content/Blazorise.Snackbar",
+      "RelativePath": "blazorise.snackbar.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dtptcverr8",
+      "Integrity": "8S8BcdXRnz8djRDnjEPdUpytwYGpwXyHvyo7Q7fm/Yo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\smhas\\.nuget\\packages\\blazorise.snackbar\\1.5.2\\staticwebassets\\blazorise.snackbar.css"
+    },
+    {
+      "Identity": "C:\\Users\\smhas\\.nuget\\packages\\blazorise.snackbar\\1.5.2\\staticwebassets\\blazorise.snackbar.min.css",
+      "SourceId": "Blazorise.Snackbar",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\smhas\\.nuget\\packages\\blazorise.snackbar\\1.5.2\\staticwebassets\\",
+      "BasePath": "_content/Blazorise.Snackbar",
+      "RelativePath": "blazorise.snackbar.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9weoct0z2i",
+      "Integrity": "aUF2vLumi/ZJNe9492mTgcymP/UYIvw1RTAnabFlJ4k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\smhas\\.nuget\\packages\\blazorise.snackbar\\1.5.2\\staticwebassets\\blazorise.snackbar.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\blazorise.css",
+      "SourceId": "Blazorise",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\",
+      "BasePath": "_content/Blazorise",
+      "RelativePath": "blazorise.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w2rkbj284c",
+      "Integrity": "GP1G2nhvZ243mLfCXJL8hYi57H8P/HA2fmZrusF70nw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\blazorise.css"
+    },
+    {
+      "Identity": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\blazorise.min.css",
+      "SourceId": "Blazorise",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\",
+      "BasePath": "_content/Blazorise",
+      "RelativePath": "blazorise.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "czkd00wxo8",
+      "Integrity": "eOt59ZYXwX8B9y8l2Se8MEctrFLQUV1RW2bRpVUGEsM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\blazorise.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\breakpoint.js",
+      "SourceId": "Blazorise",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\",
+      "BasePath": "_content/Blazorise",
+      "RelativePath": "breakpoint.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "id0t3r0t65",
+      "Integrity": "JhaI1xXnywN8viG6dIVM6CsVG8f8gNdVIn7XpGEIWh4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\breakpoint.js"
+    },
+    {
+      "Identity": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\button.js",
+      "SourceId": "Blazorise",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\",
+      "BasePath": "_content/Blazorise",
+      "RelativePath": "button.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qhonsq26b3",
+      "Integrity": "vr/dYkisilViUu54toNbDRIqRBXjzeQ/1keFTlUzkGk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\button.js"
+    },
+    {
+      "Identity": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\closable.js",
+      "SourceId": "Blazorise",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\",
+      "BasePath": "_content/Blazorise",
+      "RelativePath": "closable.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fhfndkf66a",
+      "Integrity": "Ixv4O0t21NpbZR6d0ORC1WkQHljTvIS5MBs3lRDN3No=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\closable.js"
+    },
+    {
+      "Identity": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\colorPicker.js",
+      "SourceId": "Blazorise",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\",
+      "BasePath": "_content/Blazorise",
+      "RelativePath": "colorPicker.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gjk5a63jsk",
+      "Integrity": "PAlcz4i9iXN/E1muPG4x5vT6sBDv++uirRP2vYOQ3vY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\colorPicker.js"
+    },
+    {
+      "Identity": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\datePicker.js",
+      "SourceId": "Blazorise",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\",
+      "BasePath": "_content/Blazorise",
+      "RelativePath": "datePicker.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mr08r67h6e",
+      "Integrity": "HsfMwcd9TymvkFGrlq6FYltD3o54/V6Lv9qYYdqCC0E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\datePicker.js"
+    },
+    {
+      "Identity": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\dragDrop.js",
+      "SourceId": "Blazorise",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\",
+      "BasePath": "_content/Blazorise",
+      "RelativePath": "dragDrop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "u5iyina5d3",
+      "Integrity": "joE+JgDgFwO4rOnDbkcZa0aNgaAK7sMlyu0CpwFeuBQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\dragDrop.js"
+    },
+    {
+      "Identity": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\dropdown.js",
+      "SourceId": "Blazorise",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\",
+      "BasePath": "_content/Blazorise",
+      "RelativePath": "dropdown.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sms7h6z56u",
+      "Integrity": "THoSTuDqk/2Bhm3GMG7dQyX5YT0uBHSd4ESBgIvIa3k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\dropdown.js"
+    },
+    {
+      "Identity": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\fileEdit.js",
+      "SourceId": "Blazorise",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\",
+      "BasePath": "_content/Blazorise",
+      "RelativePath": "fileEdit.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "q5j75kzakc",
+      "Integrity": "vgE8alYGdMZVRswUnMHkAO/CeT8U07EJ33DLCp40rkI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\fileEdit.js"
+    },
+    {
+      "Identity": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\filePicker.js",
+      "SourceId": "Blazorise",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\",
+      "BasePath": "_content/Blazorise",
+      "RelativePath": "filePicker.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xhqjb2cing",
+      "Integrity": "G4BG/j+WM3n9RWb+nCx5PQvvgFtfWTvZCEi/kTZA3Ew=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\filePicker.js"
+    },
+    {
+      "Identity": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\floatingUi.js",
+      "SourceId": "Blazorise",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\",
+      "BasePath": "_content/Blazorise",
+      "RelativePath": "floatingUi.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m8lad19pjt",
+      "Integrity": "BitCfiVSEA5wuz/yKS2pvXkT4BUBlEuTdoGZIpIwwwU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\floatingUi.js"
+    },
+    {
+      "Identity": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\inputMask.js",
+      "SourceId": "Blazorise",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\",
+      "BasePath": "_content/Blazorise",
+      "RelativePath": "inputMask.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yenens11s1",
+      "Integrity": "CiUfTNbbNe8EBwQYjPlYEMELOMVZeHYo0aY6bsNxEzI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\inputMask.js"
+    },
+    {
+      "Identity": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\io.js",
+      "SourceId": "Blazorise",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\",
+      "BasePath": "_content/Blazorise",
+      "RelativePath": "io.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jpt4u823i0",
+      "Integrity": "mbKL6XwKZyyrts0POi77EYKAsiuPcX8ZEDw5bwtQtFY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\io.js"
+    },
+    {
+      "Identity": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\memoEdit.js",
+      "SourceId": "Blazorise",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\",
+      "BasePath": "_content/Blazorise",
+      "RelativePath": "memoEdit.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qvbze78025",
+      "Integrity": "Gg8XTwcEij6V5OH2YemT2H2FY1IVpL/x04DxhZmHZV0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\memoEdit.js"
+    },
+    {
+      "Identity": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\numericPicker.js",
+      "SourceId": "Blazorise",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\",
+      "BasePath": "_content/Blazorise",
+      "RelativePath": "numericPicker.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9uklk5bimz",
+      "Integrity": "P6tS1bUxn/OOnrkGdb97DDazT1YDbQPeSbobORZaWME=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\numericPicker.js"
+    },
+    {
+      "Identity": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\observer.js",
+      "SourceId": "Blazorise",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\",
+      "BasePath": "_content/Blazorise",
+      "RelativePath": "observer.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s1nsmqqjya",
+      "Integrity": "UL7yfMvnqDrtwAkFBxgGYL+5hCO9VDCJ94lmA5Ry130=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\observer.js"
+    },
+    {
+      "Identity": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\table.js",
+      "SourceId": "Blazorise",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\",
+      "BasePath": "_content/Blazorise",
+      "RelativePath": "table.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dl92vzuhoz",
+      "Integrity": "71d1aq4JER2klo4jjyoGp+F10yTJZD/hcIg/XwoYiBE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\table.js"
+    },
+    {
+      "Identity": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\textEdit.js",
+      "SourceId": "Blazorise",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\",
+      "BasePath": "_content/Blazorise",
+      "RelativePath": "textEdit.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p5rj200fyu",
+      "Integrity": "w+2OLF/6rVnRkY0vDMg4n1CmhZHtKCJce9ItBMK/IXM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\textEdit.js"
+    },
+    {
+      "Identity": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\theme.js",
+      "SourceId": "Blazorise",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\",
+      "BasePath": "_content/Blazorise",
+      "RelativePath": "theme.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7mew5qey9y",
+      "Integrity": "/z7kNAcnzllfg/HxEPpf0fnn2IpUACYWcVwVa2oqnsA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\theme.js"
+    },
+    {
+      "Identity": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\timePicker.js",
+      "SourceId": "Blazorise",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\",
+      "BasePath": "_content/Blazorise",
+      "RelativePath": "timePicker.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4p6m6ks8h1",
+      "Integrity": "aCH7L1Z3Ccg662+ATTIRpodTtPIsIVufH1vkjMJ5dEs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\timePicker.js"
+    },
+    {
+      "Identity": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\tooltip.js",
+      "SourceId": "Blazorise",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\",
+      "BasePath": "_content/Blazorise",
+      "RelativePath": "tooltip.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0qtugmss4r",
+      "Integrity": "+Nme/ZU2DnF1Oqj1eN5l9d3DAe3wI/uCHJ2iOCD+HQg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\tooltip.js"
+    },
+    {
+      "Identity": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\utilities.js",
+      "SourceId": "Blazorise",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\",
+      "BasePath": "_content/Blazorise",
+      "RelativePath": "utilities.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r8wow5miyx",
+      "Integrity": "O+2sjN3a1KI9QD0CFRPr3TekxCM6VQwVIHfB/IgdNBo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\utilities.js"
+    },
+    {
+      "Identity": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\validators\\DateTimeMaskValidator.js",
+      "SourceId": "Blazorise",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\",
+      "BasePath": "_content/Blazorise",
+      "RelativePath": "validators/DateTimeMaskValidator.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9sjnuohl93",
+      "Integrity": "6VFRpMupxoUE443D30s91C5bFZsQ58DxuiNwbCVxLJk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\validators\\DateTimeMaskValidator.js"
+    },
+    {
+      "Identity": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\validators\\NoValidator.js",
+      "SourceId": "Blazorise",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\",
+      "BasePath": "_content/Blazorise",
+      "RelativePath": "validators/NoValidator.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qgmopykj85",
+      "Integrity": "RvdrNjHB3Z79Jf1QB/v3rjA4ib41PS+fjetwFdNiJuw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\validators\\NoValidator.js"
+    },
+    {
+      "Identity": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\validators\\NumericMaskValidator.js",
+      "SourceId": "Blazorise",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\",
+      "BasePath": "_content/Blazorise",
+      "RelativePath": "validators/NumericMaskValidator.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rdf588x9o3",
+      "Integrity": "4ar0+fGtxySKLf8iZAlv7UMfP/0rO43/fn6aJjFYscE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\validators\\NumericMaskValidator.js"
+    },
+    {
+      "Identity": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\validators\\RegExMaskValidator.js",
+      "SourceId": "Blazorise",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\",
+      "BasePath": "_content/Blazorise",
+      "RelativePath": "validators/RegExMaskValidator.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4rmwhz9udx",
+      "Integrity": "0JfcdT/AH07dbEAVpuaISjcVIZZmz6JaK0kpd2kRHFM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\validators\\RegExMaskValidator.js"
+    },
+    {
+      "Identity": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\vendors\\autoNumeric.js",
+      "SourceId": "Blazorise",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\",
+      "BasePath": "_content/Blazorise",
+      "RelativePath": "vendors/autoNumeric.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cs38ynhyrk",
+      "Integrity": "LHPx5iVPtgtmcZNDoi0TKQcGpZ/ThGTXvzkGzajnDEo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\vendors\\autoNumeric.js"
+    },
+    {
+      "Identity": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\vendors\\Behave.js",
+      "SourceId": "Blazorise",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\",
+      "BasePath": "_content/Blazorise",
+      "RelativePath": "vendors/Behave.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k77rf775v5",
+      "Integrity": "QPixC/RhNy0Sx4ntFHFH0iGj3tNiFkhkh/FDWbau6LE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\vendors\\Behave.js"
+    },
+    {
+      "Identity": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\vendors\\flatpickr.js",
+      "SourceId": "Blazorise",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\",
+      "BasePath": "_content/Blazorise",
+      "RelativePath": "vendors/flatpickr.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "edp1606bnc",
+      "Integrity": "TuPGTy1RSyKjfSGGz7VXOVYYoW3nhlFnCiVxIxtci88=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\vendors\\flatpickr.js"
+    },
+    {
+      "Identity": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\vendors\\floating-ui.js",
+      "SourceId": "Blazorise",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\",
+      "BasePath": "_content/Blazorise",
+      "RelativePath": "vendors/floating-ui.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5mbjrq4df3",
+      "Integrity": "cxuZSSJUtLW1W9nVAnm5EiMlDJ34kSIUSNACDrLG6OI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\vendors\\floating-ui.js"
+    },
+    {
+      "Identity": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\vendors\\floating-ui-core.js",
+      "SourceId": "Blazorise",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\",
+      "BasePath": "_content/Blazorise",
+      "RelativePath": "vendors/floating-ui-core.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2wlo7snjy4",
+      "Integrity": "0guaW7kt/WFpp8o6esUyNY5+Wm0/Jk0sgZGfiLlpIV0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\vendors\\floating-ui-core.js"
+    },
+    {
+      "Identity": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\vendors\\inputmask.js",
+      "SourceId": "Blazorise",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\",
+      "BasePath": "_content/Blazorise",
+      "RelativePath": "vendors/inputmask.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kogj7cf2d4",
+      "Integrity": "zJ0DpGMxzKalEgH9RIQKYvyut+k6zQYZq2MOwl0ovPs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\vendors\\inputmask.js"
+    },
+    {
+      "Identity": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\vendors\\jsencrypt.js",
+      "SourceId": "Blazorise",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\",
+      "BasePath": "_content/Blazorise",
+      "RelativePath": "vendors/jsencrypt.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pybrzh7rdh",
+      "Integrity": "UYwEFy4Dt94x8agDo+K5rAAynsteCUPA/G2UQCHEvyM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\vendors\\jsencrypt.js"
+    },
+    {
+      "Identity": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\vendors\\Pickr.js",
+      "SourceId": "Blazorise",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\",
+      "BasePath": "_content/Blazorise",
+      "RelativePath": "vendors/Pickr.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qovnesw5rb",
+      "Integrity": "1gHexzaXVdeRaNA/1rkPr0sk9Wcyys2XlLgv22akhVM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\vendors\\Pickr.js"
+    },
+    {
+      "Identity": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\vendors\\sha512.js",
+      "SourceId": "Blazorise",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\",
+      "BasePath": "_content/Blazorise",
+      "RelativePath": "vendors/sha512.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "luevd9t85z",
+      "Integrity": "E+LUjqfR7dS8pbN72SD0gJxBccFzMa7ZTfkInVjDPqU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\vendors\\sha512.js"
+    },
+    {
+      "Identity": "C:\\Users\\smhas\\.nuget\\packages\\volo.abp.aspnetcore.components.web\\8.3.2\\staticwebassets\\libs\\abp\\css\\abp.css",
+      "SourceId": "Volo.Abp.AspNetCore.Components.Web",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\smhas\\.nuget\\packages\\volo.abp.aspnetcore.components.web\\8.3.2\\staticwebassets\\",
+      "BasePath": "_content/Volo.Abp.AspNetCore.Components.Web",
+      "RelativePath": "libs/abp/css/abp.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "c25c931rn9",
+      "Integrity": "XPZVakQOalD4zD0sv/L9AfGT6ynjfDzu8Fw0FSswNS0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\smhas\\.nuget\\packages\\volo.abp.aspnetcore.components.web\\8.3.2\\staticwebassets\\libs\\abp\\css\\abp.css"
+    },
+    {
+      "Identity": "C:\\Users\\smhas\\.nuget\\packages\\volo.abp.aspnetcore.components.web\\8.3.2\\staticwebassets\\libs\\abp\\js\\abp.js",
+      "SourceId": "Volo.Abp.AspNetCore.Components.Web",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\smhas\\.nuget\\packages\\volo.abp.aspnetcore.components.web\\8.3.2\\staticwebassets\\",
+      "BasePath": "_content/Volo.Abp.AspNetCore.Components.Web",
+      "RelativePath": "libs/abp/js/abp.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "184hw8yfsm",
+      "Integrity": "oU8/9YSf6sghE32JxnY/dS8Oz0p6GEBp0XDClw4q8i0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\smhas\\.nuget\\packages\\volo.abp.aspnetcore.components.web\\8.3.2\\staticwebassets\\libs\\abp\\js\\abp.js"
+    },
+    {
+      "Identity": "C:\\Users\\smhas\\.nuget\\packages\\volo.abp.aspnetcore.components.web\\8.3.2\\staticwebassets\\libs\\abp\\js\\authentication-state-listener.js",
+      "SourceId": "Volo.Abp.AspNetCore.Components.Web",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\smhas\\.nuget\\packages\\volo.abp.aspnetcore.components.web\\8.3.2\\staticwebassets\\",
+      "BasePath": "_content/Volo.Abp.AspNetCore.Components.Web",
+      "RelativePath": "libs/abp/js/authentication-state-listener.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qb38od44a4",
+      "Integrity": "1m5WlN2YXMM498Vmo73M4sq1DiztXOHVcBcOeKuZHzU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\smhas\\.nuget\\packages\\volo.abp.aspnetcore.components.web\\8.3.2\\staticwebassets\\libs\\abp\\js\\authentication-state-listener.js"
+    },
+    {
+      "Identity": "C:\\Users\\smhas\\.nuget\\packages\\volo.abp.aspnetcore.components.web\\8.3.2\\staticwebassets\\libs\\abp\\js\\lang-utils.js",
+      "SourceId": "Volo.Abp.AspNetCore.Components.Web",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\smhas\\.nuget\\packages\\volo.abp.aspnetcore.components.web\\8.3.2\\staticwebassets\\",
+      "BasePath": "_content/Volo.Abp.AspNetCore.Components.Web",
+      "RelativePath": "libs/abp/js/lang-utils.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vuz4psq12w",
+      "Integrity": "hxeGyyq4zpJoJeBT4renScsmtOa5/01PMwGZIlo15SQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\smhas\\.nuget\\packages\\volo.abp.aspnetcore.components.web\\8.3.2\\staticwebassets\\libs\\abp\\js\\lang-utils.js"
+    },
+    {
+      "Identity": "C:\\Users\\smhas\\.nuget\\packages\\volo.abp.blazoriseui\\8.3.2\\staticwebassets\\volo.abp.blazoriseui.css",
+      "SourceId": "Volo.Abp.BlazoriseUI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\smhas\\.nuget\\packages\\volo.abp.blazoriseui\\8.3.2\\staticwebassets\\",
+      "BasePath": "_content/Volo.Abp.BlazoriseUI",
+      "RelativePath": "volo.abp.blazoriseui.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8pec1baj46",
+      "Integrity": "lB2nfdF/hnqc1gH/QRKk+PjDMbrKePCrlUxWZhZ8nnI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\smhas\\.nuget\\packages\\volo.abp.blazoriseui\\8.3.2\\staticwebassets\\volo.abp.blazoriseui.css"
+    },
+    {
+      "Identity": "E:\\Vms.Theme\\Vms.Theme\\src\\VmsTheme.Web\\wwwroot\\libs\\abp\\css\\theme.css",
+      "SourceId": "VmsTheme.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Vms.Theme\\Vms.Theme\\src\\VmsTheme.Web\\wwwroot\\",
+      "BasePath": "_content/VmsTheme.Web",
+      "RelativePath": "libs/abp/css/theme#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n4jbi3yncf",
+      "Integrity": "l1PFZvLtiqwhGkrJJeLesvYwRVrZ91FsFYhXtsCRMBY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\libs\\abp\\css\\theme.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "_content/Blazorise.DataGrid/datagrid.js",
+      "AssetFile": "C:\\Users\\smhas\\.nuget\\packages\\blazorise.datagrid\\1.5.2\\staticwebassets\\datagrid.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1041"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mUP0fqdTJHmuJiop3+lm3oaq938gh5HIHNzG5KnRiIQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Apr 2024 10:52:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mUP0fqdTJHmuJiop3+lm3oaq938gh5HIHNzG5KnRiIQ="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazorise.Snackbar/blazorise.snackbar.css",
+      "AssetFile": "C:\\Users\\smhas\\.nuget\\packages\\blazorise.snackbar\\1.5.2\\staticwebassets\\blazorise.snackbar.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11949"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8S8BcdXRnz8djRDnjEPdUpytwYGpwXyHvyo7Q7fm/Yo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 14 Mar 2024 12:47:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8S8BcdXRnz8djRDnjEPdUpytwYGpwXyHvyo7Q7fm/Yo="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazorise.Snackbar/blazorise.snackbar.min.css",
+      "AssetFile": "C:\\Users\\smhas\\.nuget\\packages\\blazorise.snackbar\\1.5.2\\staticwebassets\\blazorise.snackbar.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9843"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aUF2vLumi/ZJNe9492mTgcymP/UYIvw1RTAnabFlJ4k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 14 Mar 2024 12:47:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aUF2vLumi/ZJNe9492mTgcymP/UYIvw1RTAnabFlJ4k="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazorise/blazorise.css",
+      "AssetFile": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\blazorise.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67982"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GP1G2nhvZ243mLfCXJL8hYi57H8P/HA2fmZrusF70nw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 01 Apr 2024 08:38:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GP1G2nhvZ243mLfCXJL8hYi57H8P/HA2fmZrusF70nw="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazorise/blazorise.min.css",
+      "AssetFile": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\blazorise.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "60000"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eOt59ZYXwX8B9y8l2Se8MEctrFLQUV1RW2bRpVUGEsM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 01 Apr 2024 08:38:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eOt59ZYXwX8B9y8l2Se8MEctrFLQUV1RW2bRpVUGEsM="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazorise/breakpoint.js",
+      "AssetFile": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\breakpoint.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2379"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JhaI1xXnywN8viG6dIVM6CsVG8f8gNdVIn7XpGEIWh4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 Feb 2024 09:18:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JhaI1xXnywN8viG6dIVM6CsVG8f8gNdVIn7XpGEIWh4="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazorise/button.js",
+      "AssetFile": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\button.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "946"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vr/dYkisilViUu54toNbDRIqRBXjzeQ/1keFTlUzkGk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Apr 2024 10:49:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vr/dYkisilViUu54toNbDRIqRBXjzeQ/1keFTlUzkGk="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazorise/closable.js",
+      "AssetFile": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\closable.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5188"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ixv4O0t21NpbZR6d0ORC1WkQHljTvIS5MBs3lRDN3No=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 14 Mar 2024 12:47:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ixv4O0t21NpbZR6d0ORC1WkQHljTvIS5MBs3lRDN3No="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazorise/colorPicker.js",
+      "AssetFile": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\colorPicker.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7451"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PAlcz4i9iXN/E1muPG4x5vT6sBDv++uirRP2vYOQ3vY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Apr 2024 10:49:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PAlcz4i9iXN/E1muPG4x5vT6sBDv++uirRP2vYOQ3vY="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazorise/datePicker.js",
+      "AssetFile": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\datePicker.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HsfMwcd9TymvkFGrlq6FYltD3o54/V6Lv9qYYdqCC0E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Apr 2024 10:49:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HsfMwcd9TymvkFGrlq6FYltD3o54/V6Lv9qYYdqCC0E="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazorise/dragDrop.js",
+      "AssetFile": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\dragDrop.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2437"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"joE+JgDgFwO4rOnDbkcZa0aNgaAK7sMlyu0CpwFeuBQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Apr 2024 10:49:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-joE+JgDgFwO4rOnDbkcZa0aNgaAK7sMlyu0CpwFeuBQ="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazorise/dropdown.js",
+      "AssetFile": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\dropdown.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1372"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"THoSTuDqk/2Bhm3GMG7dQyX5YT0uBHSd4ESBgIvIa3k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Apr 2024 10:49:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-THoSTuDqk/2Bhm3GMG7dQyX5YT0uBHSd4ESBgIvIa3k="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazorise/fileEdit.js",
+      "AssetFile": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\fileEdit.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5695"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vgE8alYGdMZVRswUnMHkAO/CeT8U07EJ33DLCp40rkI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Apr 2024 10:49:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vgE8alYGdMZVRswUnMHkAO/CeT8U07EJ33DLCp40rkI="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazorise/filePicker.js",
+      "AssetFile": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\filePicker.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2245"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G4BG/j+WM3n9RWb+nCx5PQvvgFtfWTvZCEi/kTZA3Ew=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Apr 2024 10:49:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-G4BG/j+WM3n9RWb+nCx5PQvvgFtfWTvZCEi/kTZA3Ew="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazorise/floatingUi.js",
+      "AssetFile": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\floatingUi.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1681"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BitCfiVSEA5wuz/yKS2pvXkT4BUBlEuTdoGZIpIwwwU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Apr 2024 10:49:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BitCfiVSEA5wuz/yKS2pvXkT4BUBlEuTdoGZIpIwwwU="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazorise/inputMask.js",
+      "AssetFile": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\inputMask.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2601"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CiUfTNbbNe8EBwQYjPlYEMELOMVZeHYo0aY6bsNxEzI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Apr 2024 10:49:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CiUfTNbbNe8EBwQYjPlYEMELOMVZeHYo0aY6bsNxEzI="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazorise/io.js",
+      "AssetFile": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\io.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4775"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mbKL6XwKZyyrts0POi77EYKAsiuPcX8ZEDw5bwtQtFY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 Feb 2024 09:18:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mbKL6XwKZyyrts0POi77EYKAsiuPcX8ZEDw5bwtQtFY="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazorise/memoEdit.js",
+      "AssetFile": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\memoEdit.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3592"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Gg8XTwcEij6V5OH2YemT2H2FY1IVpL/x04DxhZmHZV0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Apr 2024 10:49:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Gg8XTwcEij6V5OH2YemT2H2FY1IVpL/x04DxhZmHZV0="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazorise/numericPicker.js",
+      "AssetFile": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\numericPicker.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7349"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P6tS1bUxn/OOnrkGdb97DDazT1YDbQPeSbobORZaWME=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Apr 2024 10:49:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-P6tS1bUxn/OOnrkGdb97DDazT1YDbQPeSbobORZaWME="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazorise/observer.js",
+      "AssetFile": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\observer.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3682"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UL7yfMvnqDrtwAkFBxgGYL+5hCO9VDCJ94lmA5Ry130=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 14 Mar 2024 12:47:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UL7yfMvnqDrtwAkFBxgGYL+5hCO9VDCJ94lmA5Ry130="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazorise/table.js",
+      "AssetFile": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\table.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7736"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"71d1aq4JER2klo4jjyoGp+F10yTJZD/hcIg/XwoYiBE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Apr 2024 10:49:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-71d1aq4JER2klo4jjyoGp+F10yTJZD/hcIg/XwoYiBE="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazorise/textEdit.js",
+      "AssetFile": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\textEdit.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1719"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w+2OLF/6rVnRkY0vDMg4n1CmhZHtKCJce9ItBMK/IXM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Apr 2024 10:49:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-w+2OLF/6rVnRkY0vDMg4n1CmhZHtKCJce9ItBMK/IXM="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazorise/theme.js",
+      "AssetFile": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\theme.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1487"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/z7kNAcnzllfg/HxEPpf0fnn2IpUACYWcVwVa2oqnsA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 Feb 2024 09:18:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/z7kNAcnzllfg/HxEPpf0fnn2IpUACYWcVwVa2oqnsA="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazorise/timePicker.js",
+      "AssetFile": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\timePicker.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6946"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aCH7L1Z3Ccg662+ATTIRpodTtPIsIVufH1vkjMJ5dEs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Apr 2024 10:49:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aCH7L1Z3Ccg662+ATTIRpodTtPIsIVufH1vkjMJ5dEs="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazorise/tooltip.js",
+      "AssetFile": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\tooltip.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "54102"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+Nme/ZU2DnF1Oqj1eN5l9d3DAe3wI/uCHJ2iOCD+HQg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Apr 2024 10:49:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+Nme/ZU2DnF1Oqj1eN5l9d3DAe3wI/uCHJ2iOCD+HQg="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazorise/utilities.js",
+      "AssetFile": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\utilities.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9511"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O+2sjN3a1KI9QD0CFRPr3TekxCM6VQwVIHfB/IgdNBo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Apr 2024 10:49:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-O+2sjN3a1KI9QD0CFRPr3TekxCM6VQwVIHfB/IgdNBo="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazorise/validators/DateTimeMaskValidator.js",
+      "AssetFile": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\validators\\DateTimeMaskValidator.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "651"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6VFRpMupxoUE443D30s91C5bFZsQ58DxuiNwbCVxLJk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Mar 2023 13:52:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6VFRpMupxoUE443D30s91C5bFZsQ58DxuiNwbCVxLJk="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazorise/validators/NoValidator.js",
+      "AssetFile": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\validators\\NoValidator.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "113"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RvdrNjHB3Z79Jf1QB/v3rjA4ib41PS+fjetwFdNiJuw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Mar 2023 13:52:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RvdrNjHB3Z79Jf1QB/v3rjA4ib41PS+fjetwFdNiJuw="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazorise/validators/NumericMaskValidator.js",
+      "AssetFile": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\validators\\NumericMaskValidator.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6408"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4ar0+fGtxySKLf8iZAlv7UMfP/0rO43/fn6aJjFYscE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Mar 2023 13:52:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4ar0+fGtxySKLf8iZAlv7UMfP/0rO43/fn6aJjFYscE="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazorise/validators/RegExMaskValidator.js",
+      "AssetFile": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\validators\\RegExMaskValidator.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "633"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0JfcdT/AH07dbEAVpuaISjcVIZZmz6JaK0kpd2kRHFM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Mar 2023 13:52:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0JfcdT/AH07dbEAVpuaISjcVIZZmz6JaK0kpd2kRHFM="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazorise/vendors/autoNumeric.js",
+      "AssetFile": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\vendors\\autoNumeric.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "219906"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LHPx5iVPtgtmcZNDoi0TKQcGpZ/ThGTXvzkGzajnDEo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Mar 2023 13:52:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LHPx5iVPtgtmcZNDoi0TKQcGpZ/ThGTXvzkGzajnDEo="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazorise/vendors/Behave.js",
+      "AssetFile": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\vendors\\Behave.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9317"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QPixC/RhNy0Sx4ntFHFH0iGj3tNiFkhkh/FDWbau6LE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Mar 2023 13:52:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QPixC/RhNy0Sx4ntFHFH0iGj3tNiFkhkh/FDWbau6LE="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazorise/vendors/flatpickr.js",
+      "AssetFile": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\vendors\\flatpickr.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "62541"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TuPGTy1RSyKjfSGGz7VXOVYYoW3nhlFnCiVxIxtci88=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 14 Mar 2024 12:47:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TuPGTy1RSyKjfSGGz7VXOVYYoW3nhlFnCiVxIxtci88="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazorise/vendors/floating-ui.js",
+      "AssetFile": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\vendors\\floating-ui.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10628"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cxuZSSJUtLW1W9nVAnm5EiMlDJ34kSIUSNACDrLG6OI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 14 Mar 2024 12:47:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cxuZSSJUtLW1W9nVAnm5EiMlDJ34kSIUSNACDrLG6OI="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazorise/vendors/floating-ui-core.js",
+      "AssetFile": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\vendors\\floating-ui-core.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15103"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0guaW7kt/WFpp8o6esUyNY5+Wm0/Jk0sgZGfiLlpIV0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 14 Mar 2024 12:47:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0guaW7kt/WFpp8o6esUyNY5+Wm0/Jk0sgZGfiLlpIV0="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazorise/vendors/inputmask.js",
+      "AssetFile": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\vendors\\inputmask.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "140250"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zJ0DpGMxzKalEgH9RIQKYvyut+k6zQYZq2MOwl0ovPs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Mar 2024 10:58:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zJ0DpGMxzKalEgH9RIQKYvyut+k6zQYZq2MOwl0ovPs="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazorise/vendors/jsencrypt.js",
+      "AssetFile": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\vendors\\jsencrypt.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55434"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UYwEFy4Dt94x8agDo+K5rAAynsteCUPA/G2UQCHEvyM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 14 Mar 2024 12:47:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UYwEFy4Dt94x8agDo+K5rAAynsteCUPA/G2UQCHEvyM="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazorise/vendors/Pickr.js",
+      "AssetFile": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\vendors\\Pickr.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27690"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1gHexzaXVdeRaNA/1rkPr0sk9Wcyys2XlLgv22akhVM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Mar 2023 13:52:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1gHexzaXVdeRaNA/1rkPr0sk9Wcyys2XlLgv22akhVM="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazorise/vendors/sha512.js",
+      "AssetFile": "C:\\Users\\smhas\\.nuget\\packages\\blazorise\\1.5.2\\staticwebassets\\vendors\\sha512.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17899"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E+LUjqfR7dS8pbN72SD0gJxBccFzMa7ZTfkInVjDPqU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 14 Mar 2024 12:47:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-E+LUjqfR7dS8pbN72SD0gJxBccFzMa7ZTfkInVjDPqU="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Volo.Abp.AspNetCore.Components.Web/libs/abp/css/abp.css",
+      "AssetFile": "C:\\Users\\smhas\\.nuget\\packages\\volo.abp.aspnetcore.components.web\\8.3.2\\staticwebassets\\libs\\abp\\css\\abp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1342"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XPZVakQOalD4zD0sv/L9AfGT6ynjfDzu8Fw0FSswNS0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Oct 2024 07:02:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XPZVakQOalD4zD0sv/L9AfGT6ynjfDzu8Fw0FSswNS0="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Volo.Abp.AspNetCore.Components.Web/libs/abp/js/abp.js",
+      "AssetFile": "C:\\Users\\smhas\\.nuget\\packages\\volo.abp.aspnetcore.components.web\\8.3.2\\staticwebassets\\libs\\abp\\js\\abp.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8553"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oU8/9YSf6sghE32JxnY/dS8Oz0p6GEBp0XDClw4q8i0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Oct 2024 07:02:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oU8/9YSf6sghE32JxnY/dS8Oz0p6GEBp0XDClw4q8i0="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Volo.Abp.AspNetCore.Components.Web/libs/abp/js/authentication-state-listener.js",
+      "AssetFile": "C:\\Users\\smhas\\.nuget\\packages\\volo.abp.aspnetcore.components.web\\8.3.2\\staticwebassets\\libs\\abp\\js\\authentication-state-listener.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "453"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1m5WlN2YXMM498Vmo73M4sq1DiztXOHVcBcOeKuZHzU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Oct 2024 07:02:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1m5WlN2YXMM498Vmo73M4sq1DiztXOHVcBcOeKuZHzU="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Volo.Abp.AspNetCore.Components.Web/libs/abp/js/lang-utils.js",
+      "AssetFile": "C:\\Users\\smhas\\.nuget\\packages\\volo.abp.aspnetcore.components.web\\8.3.2\\staticwebassets\\libs\\abp\\js\\lang-utils.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "679"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hxeGyyq4zpJoJeBT4renScsmtOa5/01PMwGZIlo15SQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Oct 2024 07:02:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hxeGyyq4zpJoJeBT4renScsmtOa5/01PMwGZIlo15SQ="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Volo.Abp.BlazoriseUI/volo.abp.blazoriseui.css",
+      "AssetFile": "C:\\Users\\smhas\\.nuget\\packages\\volo.abp.blazoriseui\\8.3.2\\staticwebassets\\volo.abp.blazoriseui.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1274"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lB2nfdF/hnqc1gH/QRKk+PjDMbrKePCrlUxWZhZ8nnI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Oct 2024 07:02:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lB2nfdF/hnqc1gH/QRKk+PjDMbrKePCrlUxWZhZ8nnI="
+        }
+      ]
+    },
+    {
+      "Route": "libs/abp/css/theme.css",
+      "AssetFile": "E:\\Vms.Theme\\Vms.Theme\\src\\VmsTheme.Web\\wwwroot\\libs\\abp\\css\\theme.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3366"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l1PFZvLtiqwhGkrJJeLesvYwRVrZ91FsFYhXtsCRMBY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 16 Nov 2024 00:37:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-l1PFZvLtiqwhGkrJJeLesvYwRVrZ91FsFYhXtsCRMBY="
+        }
+      ]
+    },
+    {
+      "Route": "libs/abp/css/theme.n4jbi3yncf.css",
+      "AssetFile": "E:\\Vms.Theme\\Vms.Theme\\src\\VmsTheme.Web\\wwwroot\\libs\\abp\\css\\theme.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3366"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l1PFZvLtiqwhGkrJJeLesvYwRVrZ91FsFYhXtsCRMBY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 16 Nov 2024 00:37:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n4jbi3yncf"
+        },
+        {
+          "Name": "label",
+          "Value": "libs/abp/css/theme.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-l1PFZvLtiqwhGkrJJeLesvYwRVrZ91FsFYhXtsCRMBY="
+        }
+      ]
+    }
+  ]
+}

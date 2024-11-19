@@ -1,0 +1,6 @@
+F:\Download\Vms.Theme\Vms.Theme\src\VmsTheme.Web\obj\Debug\net8.0\staticwebassets.build.json
+F:\Download\Vms.Theme\Vms.Theme\src\VmsTheme.Web\obj\Debug\net8.0\staticwebassets.build.json
+E:\Vms.Theme\Vms.Theme\src\VmsTheme.Web\obj\Debug\net8.0\staticwebassets.build.json
+E:\Vms.Theme\Vms.Theme\src\VmsTheme.Web\obj\Debug\net8.0\staticwebassets.build.json
+E:\Vms.Theme\Vms.Theme\src\VmsTheme.Web\obj\Debug\net8.0\staticwebassets.build.json
+E:\Vms.Theme\Vms.Theme\src\VmsTheme.Web\obj\Debug\net8.0\staticwebassets.build.json

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Vms.Theme\\Vms.Theme\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21E20CC4-E82B-451B-BB73-141997C81C56}|src\\VmsTheme.Mvc\\VmsTheme.Mvc.csproj|e:\\vms.theme\\vms.theme\\src\\vmstheme.mvc\\vmsthememvcmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E20CC4-E82B-451B-BB73-141997C81C56}|src\\VmsTheme.Mvc\\VmsTheme.Mvc.csproj|solutionrelative:src\\vmstheme.mvc\\vmsthememvcmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E20CC4-E82B-451B-BB73-141997C81C56}|src\\VmsTheme.Mvc\\VmsTheme.Mvc.csproj|e:\\vms.theme\\vms.theme\\src\\vmstheme.mvc\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21E20CC4-E82B-451B-BB73-141997C81C56}|src\\VmsTheme.Mvc\\VmsTheme.Mvc.csproj|solutionrelative:src\\vmstheme.mvc\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E20CC4-E82B-451B-BB73-141997C81C56}|src\\VmsTheme.Mvc\\VmsTheme.Mvc.csproj|e:\\vms.theme\\vms.theme\\src\\vmstheme.mvc\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E20CC4-E82B-451B-BB73-141997C81C56}|src\\VmsTheme.Mvc\\VmsTheme.Mvc.csproj|solutionrelative:src\\vmstheme.mvc\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{655C0CF7-7BFA-45E4-A157-E868A97FB45B}|src\\VmsTheme.Web\\VmsTheme.Web.csproj|e:\\vms.theme\\vms.theme\\src\\vmstheme.web\\account\\settings\\accountsettingnames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655C0CF7-7BFA-45E4-A157-E868A97FB45B}|src\\VmsTheme.Web\\VmsTheme.Web.csproj|solutionrelative:src\\vmstheme.web\\account\\settings\\accountsettingnames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{655C0CF7-7BFA-45E4-A157-E868A97FB45B}|src\\VmsTheme.Web\\VmsTheme.Web.csproj|e:\\vms.theme\\vms.theme\\src\\vmstheme.web\\vmsthemeresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655C0CF7-7BFA-45E4-A157-E868A97FB45B}|src\\VmsTheme.Web\\VmsTheme.Web.csproj|solutionrelative:src\\vmstheme.web\\vmsthemeresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VmsThemeMvcModule.cs",
+              "DocumentMoniker": "E:\\Vms.Theme\\Vms.Theme\\src\\VmsTheme.Mvc\\VmsThemeMvcModule.cs",
+              "RelativeDocumentMoniker": "src\\VmsTheme.Mvc\\VmsThemeMvcModule.cs",
+              "ToolTip": "E:\\Vms.Theme\\Vms.Theme\\src\\VmsTheme.Mvc\\VmsThemeMvcModule.cs",
+              "RelativeToolTip": "src\\VmsTheme.Mvc\\VmsThemeMvcModule.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T05:14:57.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "E:\\Vms.Theme\\Vms.Theme\\src\\VmsTheme.Mvc\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "src\\VmsTheme.Mvc\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "E:\\Vms.Theme\\Vms.Theme\\src\\VmsTheme.Mvc\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "src\\VmsTheme.Mvc\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T04:57:55.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountSettingNames.cs",
+              "DocumentMoniker": "E:\\Vms.Theme\\Vms.Theme\\src\\VmsTheme.Web\\Account\\Settings\\AccountSettingNames.cs",
+              "RelativeDocumentMoniker": "src\\VmsTheme.Web\\Account\\Settings\\AccountSettingNames.cs",
+              "ToolTip": "E:\\Vms.Theme\\Vms.Theme\\src\\VmsTheme.Web\\Account\\Settings\\AccountSettingNames.cs",
+              "RelativeToolTip": "src\\VmsTheme.Web\\Account\\Settings\\AccountSettingNames.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T04:57:07.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VmsThemeResource.cs",
+              "DocumentMoniker": "E:\\Vms.Theme\\Vms.Theme\\src\\VmsTheme.Web\\VmsThemeResource.cs",
+              "RelativeDocumentMoniker": "src\\VmsTheme.Web\\VmsThemeResource.cs",
+              "ToolTip": "E:\\Vms.Theme\\Vms.Theme\\src\\VmsTheme.Web\\VmsThemeResource.cs",
+              "RelativeToolTip": "src\\VmsTheme.Web\\VmsThemeResource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T04:52:50.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\Vms.Theme\\Vms.Theme\\src\\VmsTheme.Mvc\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "src\\VmsTheme.Mvc\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "E:\\Vms.Theme\\Vms.Theme\\src\\VmsTheme.Mvc\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "src\\VmsTheme.Mvc\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T04:38:12.255Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

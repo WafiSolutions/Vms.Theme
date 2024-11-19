@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\smhas\.nuget\packages\;C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages;C:\Program Files\dotnet\sdk\NuGetFallbackFolder</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.12.1</NuGetToolVersion>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <SourceRoot Include="C:\Users\smhas\.nuget\packages\" />
+    <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
+    <SourceRoot Include="C:\Program Files\dotnet\sdk\NuGetFallbackFolder\" />
+  </ItemGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Content Include="$(NuGetPackageRoot)volo.abp.aspnetcore.mvc.ui.theme.shared\8.3.2\contentFiles\any\net8.0\Volo.Abp.AspNetCore.Mvc.UI.Theme.Shared.abppkg.analyze.json" Condition="Exists('$(NuGetPackageRoot)volo.abp.aspnetcore.mvc.ui.theme.shared\8.3.2\contentFiles\any\net8.0\Volo.Abp.AspNetCore.Mvc.UI.Theme.Shared.abppkg.analyze.json')">
+      <NuGetPackageId>Volo.Abp.AspNetCore.Mvc.UI.Theme.Shared</NuGetPackageId>
+      <NuGetPackageVersion>8.3.2</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>Volo.Abp.AspNetCore.Mvc.UI.Theme.Shared.abppkg.analyze.json</Link>
+    </Content>
+  </ItemGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Content Include="$(NuGetPackageRoot)volo.abp.identity.aspnetcore\8.3.2\contentFiles\any\net8.0\Volo.Abp.Identity.AspNetCore.abppkg.analyze.json" Condition="Exists('$(NuGetPackageRoot)volo.abp.identity.aspnetcore\8.3.2\contentFiles\any\net8.0\Volo.Abp.Identity.AspNetCore.abppkg.analyze.json')">
+      <NuGetPackageId>Volo.Abp.Identity.AspNetCore</NuGetPackageId>
+      <NuGetPackageVersion>8.3.2</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>Volo.Abp.Identity.AspNetCore.abppkg.analyze.json</Link>
+    </Content>
+  </ItemGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Content Include="$(NuGetPackageRoot)volo.abp.aspnetcore.mvc.ui.multitenancy\8.3.2\contentFiles\any\net8.0\Volo.Abp.AspNetCore.Mvc.UI.MultiTenancy.abppkg.analyze.json" Condition="Exists('$(NuGetPackageRoot)volo.abp.aspnetcore.mvc.ui.multitenancy\8.3.2\contentFiles\any\net8.0\Volo.Abp.AspNetCore.Mvc.UI.MultiTenancy.abppkg.analyze.json')">
+      <NuGetPackageId>Volo.Abp.AspNetCore.Mvc.UI.MultiTenancy</NuGetPackageId>
+      <NuGetPackageVersion>8.3.2</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>Volo.Abp.AspNetCore.Mvc.UI.MultiTenancy.abppkg.analyze.json</Link>
+    </Content>
+  </ItemGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Content Include="$(NuGetPackageRoot)volo.abp.account.web.openiddict\8.3.2\contentFiles\any\net8.0\Volo.Abp.Account.Web.OpenIddict.abppkg.analyze.json" Condition="Exists('$(NuGetPackageRoot)volo.abp.account.web.openiddict\8.3.2\contentFiles\any\net8.0\Volo.Abp.Account.Web.OpenIddict.abppkg.analyze.json')">
+      <NuGetPackageId>Volo.Abp.Account.Web.OpenIddict</NuGetPackageId>
+      <NuGetPackageVersion>8.3.2</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>Volo.Abp.Account.Web.OpenIddict.abppkg.analyze.json</Link>
+    </Content>
+  </ItemGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)microsoft.extensions.configuration.usersecrets\8.0.0\buildTransitive\net6.0\Microsoft.Extensions.Configuration.UserSecrets.props" Condition="Exists('$(NuGetPackageRoot)microsoft.extensions.configuration.usersecrets\8.0.0\buildTransitive\net6.0\Microsoft.Extensions.Configuration.UserSecrets.props')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.extensions.fileproviders.embedded\8.0.4\build\netstandard2.0\Microsoft.Extensions.FileProviders.Embedded.props" Condition="Exists('$(NuGetPackageRoot)microsoft.extensions.fileproviders.embedded\8.0.4\build\netstandard2.0\Microsoft.Extensions.FileProviders.Embedded.props')" />
+    <Import Project="$(NuGetPackageRoot)volo.abp.aspnetcore.components.web\8.3.2\buildTransitive\Volo.Abp.AspNetCore.Components.Web.props" Condition="Exists('$(NuGetPackageRoot)volo.abp.aspnetcore.components.web\8.3.2\buildTransitive\Volo.Abp.AspNetCore.Components.Web.props')" />
+    <Import Project="$(NuGetPackageRoot)blazorise\1.5.2\buildTransitive\Blazorise.props" Condition="Exists('$(NuGetPackageRoot)blazorise\1.5.2\buildTransitive\Blazorise.props')" />
+    <Import Project="$(NuGetPackageRoot)blazorise.snackbar\1.5.2\buildTransitive\Blazorise.Snackbar.props" Condition="Exists('$(NuGetPackageRoot)blazorise.snackbar\1.5.2\buildTransitive\Blazorise.Snackbar.props')" />
+    <Import Project="$(NuGetPackageRoot)blazorise.datagrid\1.5.2\buildTransitive\Blazorise.DataGrid.props" Condition="Exists('$(NuGetPackageRoot)blazorise.datagrid\1.5.2\buildTransitive\Blazorise.DataGrid.props')" />
+    <Import Project="$(NuGetPackageRoot)volo.abp.blazoriseui\8.3.2\buildTransitive\Volo.Abp.BlazoriseUI.props" Condition="Exists('$(NuGetPackageRoot)volo.abp.blazoriseui\8.3.2\buildTransitive\Volo.Abp.BlazoriseUI.props')" />
+  </ImportGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgMicrosoft_CodeAnalysis_Analyzers Condition=" '$(PkgMicrosoft_CodeAnalysis_Analyzers)' == '' ">C:\Users\smhas\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2</PkgMicrosoft_CodeAnalysis_Analyzers>
+  </PropertyGroup>
+</Project>
