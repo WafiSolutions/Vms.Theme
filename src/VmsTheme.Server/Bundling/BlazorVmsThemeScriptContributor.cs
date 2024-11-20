@@ -19,6 +19,12 @@ public class BlazorVmsThemeScriptContributor : BundleContributor
         context.Files.AddIfNotContains("/libs/datatables.net/js/dataTables.min.js");
         context.Files.AddIfNotContains("/libs/datatables.net-bs5/js/dataTables.bootstrap5.js");
         context.Files.AddIfNotContains("/libs/abp/aspnetcore-mvc-ui-theme-shared/datatables/datatables-extensions.js");
+        context.Files.AddIfNotContains("/assets/js/datatable-extensions/Buttons-3.2.0/js/dataTables.buttons.min.js");
+        context.Files.AddIfNotContains("/assets/js/jszip.min.js");
+        context.Files.AddIfNotContains("/assets/js/pdfmake.min.js");
+        context.Files.AddIfNotContains("/assets/js/vfs_fonts.js");
+        context.Files.AddIfNotContains("/assets/js/datatable-extensions/Buttons-3.2.0/js/buttons.html5.min.js");
+        context.Files.AddIfNotContains("/assets/js/datatable-extensions/Buttons-3.2.0/js/buttons.print.min.js");
         context.Files.AddIfNotContains("/assets/js/datatable-helper.js");
         context.Files.AddIfNotContains("/assets/js/modal-helper.js");
     }

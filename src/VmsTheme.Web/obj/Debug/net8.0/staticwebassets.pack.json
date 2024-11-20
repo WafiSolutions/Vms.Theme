@@ -1,12 +1,8 @@
 {
   "Files": [
     {
-      "Id": "E:\\Vms.Theme\\Vms.Theme\\src\\VmsTheme.Web\\wwwroot\\libs\\abp\\css\\theme.css",
+      "Id": "F:\\Projects\\Takamol\\Vms.Theme\\src\\VmsTheme.Web\\wwwroot\\libs\\abp\\css\\theme.css",
       "PackagePath": "staticwebassets\\libs\\abp\\css\\theme.css"
-    },
-    {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.VmsTheme.Web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
-      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.VmsTheme.Web.Microsoft.AspNetCore.StaticWebAssets.props",

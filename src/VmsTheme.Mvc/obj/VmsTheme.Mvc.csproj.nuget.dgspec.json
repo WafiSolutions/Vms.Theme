@@ -1,26 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Vms.Theme\\Vms.Theme\\src\\VmsTheme.Mvc\\VmsTheme.Mvc.csproj": {}
+    "F:\\Projects\\Takamol\\Vms.Theme\\src\\VmsTheme.Mvc\\VmsTheme.Mvc.csproj": {}
   },
   "projects": {
-    "E:\\Vms.Theme\\Vms.Theme\\src\\VmsTheme.Mvc\\VmsTheme.Mvc.csproj": {
+    "F:\\Projects\\Takamol\\Vms.Theme\\src\\VmsTheme.Mvc\\VmsTheme.Mvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Vms.Theme\\Vms.Theme\\src\\VmsTheme.Mvc\\VmsTheme.Mvc.csproj",
+        "projectUniqueName": "F:\\Projects\\Takamol\\Vms.Theme\\src\\VmsTheme.Mvc\\VmsTheme.Mvc.csproj",
         "projectName": "VmsTheme.Mvc",
-        "projectPath": "E:\\Vms.Theme\\Vms.Theme\\src\\VmsTheme.Mvc\\VmsTheme.Mvc.csproj",
-        "packagesPath": "C:\\Users\\smhas\\.nuget\\packages\\",
-        "outputPath": "E:\\Vms.Theme\\Vms.Theme\\src\\VmsTheme.Mvc\\obj\\",
+        "projectPath": "F:\\Projects\\Takamol\\Vms.Theme\\src\\VmsTheme.Mvc\\VmsTheme.Mvc.csproj",
+        "packagesPath": "C:\\Users\\Wafi\\.nuget\\packages\\",
+        "outputPath": "F:\\Projects\\Takamol\\Vms.Theme\\src\\VmsTheme.Mvc\\obj\\",
         "projectStyle": "PackageReference",
         "centralPackageVersionsManagementEnabled": true,
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\smhas\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Wafi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,14 +26,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Vms.Theme\\Vms.Theme\\src\\VmsTheme.Web\\VmsTheme.Web.csproj": {
-                "projectPath": "E:\\Vms.Theme\\Vms.Theme\\src\\VmsTheme.Web\\VmsTheme.Web.csproj"
+              "F:\\Projects\\Takamol\\Vms.Theme\\src\\VmsTheme.Web\\VmsTheme.Web.csproj": {
+                "projectPath": "F:\\Projects\\Takamol\\Vms.Theme\\src\\VmsTheme.Web\\VmsTheme.Web.csproj"
               }
             }
           }
@@ -48,9 +47,8 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+          "auditMode": "direct"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -280,27 +278,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Vms.Theme\\Vms.Theme\\src\\VmsTheme.Web\\VmsTheme.Web.csproj": {
+    "F:\\Projects\\Takamol\\Vms.Theme\\src\\VmsTheme.Web\\VmsTheme.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Vms.Theme\\Vms.Theme\\src\\VmsTheme.Web\\VmsTheme.Web.csproj",
+        "projectUniqueName": "F:\\Projects\\Takamol\\Vms.Theme\\src\\VmsTheme.Web\\VmsTheme.Web.csproj",
         "projectName": "VmsTheme.Web",
-        "projectPath": "E:\\Vms.Theme\\Vms.Theme\\src\\VmsTheme.Web\\VmsTheme.Web.csproj",
-        "packagesPath": "C:\\Users\\smhas\\.nuget\\packages\\",
-        "outputPath": "E:\\Vms.Theme\\Vms.Theme\\src\\VmsTheme.Web\\obj\\",
+        "projectPath": "F:\\Projects\\Takamol\\Vms.Theme\\src\\VmsTheme.Web\\VmsTheme.Web.csproj",
+        "packagesPath": "C:\\Users\\Wafi\\.nuget\\packages\\",
+        "outputPath": "F:\\Projects\\Takamol\\Vms.Theme\\src\\VmsTheme.Web\\obj\\",
         "projectStyle": "PackageReference",
         "centralPackageVersionsManagementEnabled": true,
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\smhas\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Wafi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -308,6 +304,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -324,9 +321,8 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+          "auditMode": "direct"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -530,7 +526,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
