@@ -1,5 +1,7 @@
 ﻿@using Microsoft.Extensions.Localization
 @using Microsoft.Extensions.Options
+@using VmsTheme.Web._keenthemes
+@using VmsTheme.Web._keenthemes.libs
 @using Volo.Abp.AspNetCore.MultiTenancy
 @using Volo.Abp.AspNetCore.Mvc.UI.Components.LayoutHook
 @using Volo.Abp.AspNetCore.Mvc.UI.MultiTenancy.Localization
@@ -18,16 +20,17 @@
 @inject ICurrentTenant CurrentTenant
 @inject IStringLocalizer<AbpUiMultiTenancyResource> MultiTenancyStringLocalizer
 @inject ITenantResolveResultAccessor TenantResolveResultAccessor
+@inject IKTTheme KTTheme
+@inject IBootstrapBase BootstrapBase
 
 @{
     Layout = null;
-    var containerClass = ViewBag.FluidLayout == true ? "container-fluid" : "container"; //TODO: Better and type-safe options
-    var rtl = CultureHelper.IsRtl ? "rtl" : string.Empty;
+    BootstrapBase.Init(KTTheme);
 }
 
 <!DOCTYPE html>
 
-<html lang="@CultureInfo.CurrentCulture.Name" dir="@rtl">
+<html @Html.Raw(KTTheme.PrintHtmlAttributes("html"))>
 <head>
     @await Component.InvokeLayoutHookAsync(LayoutHooks.Head.First, StandardLayouts.Account)
 
@@ -37,61 +40,90 @@
 
     <title>@(ViewBag.Title == null ? BrandingProvider.AppName : ViewBag.Title)</title>
 
+    <link rel="shortcut icon" href="@KTTheme.GetFavicon()" />
+
     @if (ViewBag.Description != null)
     {
         <meta name="description" content="@(ViewBag.Description as string)" />
     }
-    <abp-style-bundle name="@VmsThemeBundles.Styles.Global" />
+
+    @* <abp-style-bundle name="@VmsThemeBundles.Styles.Global" /> *@
+
+    <!--begin::Fonts-->
+    @foreach (string font in KTTheme.GetFonts())
+    {
+        <link rel="stylesheet" href="@font" />
+    }
+
+    <!--end::Fonts-->
+    <!--begin::Global Stylesheets(mandatory)-->
+    @foreach (string file in KTTheme.GetGlobalAssets("Css"))
+    {
+        <link rel="stylesheet" type="text/css" href="@file" />
+    }
+    <!--end::Global Stylesheets-->
 
     @await RenderSectionAsync("styles", false)
-
-    @await Component.InvokeAsync(typeof(WidgetStylesViewComponent))
-
-    @await Component.InvokeLayoutHookAsync(LayoutHooks.Head.Last, StandardLayouts.Account)
 </head>
-<body class="abp-account-layout @rtl">
-    @await Component.InvokeLayoutHookAsync(LayoutHooks.Body.First, StandardLayouts.Account)
+<!body @Html.Raw(KTTheme.PrintHtmlAttributes("body")) class='@KTTheme.PrintHtmlClasses("body")'>
+    <partial name="~/Shared/Partials/ThemeMode/_Init.cshtml"></partial>
 
-    @(await Component.InvokeAsync<MainNavbarViewComponent>())
+    <!--begin::Global Javascript(mandatory)-->
+    @foreach (string file in KTTheme.GetGlobalAssets("Js"))
+    {
+        <script src="@file"></script>
+    }
+    <!--end::Global Javascript-->
 
-    <div class="@containerClass">
-        <abp-row>
-            <abp-column class="col mx-auto" style="max-width: 440px">
-                @if (MultiTenancyOptions.Value.IsEnabled &&
-                  (TenantResolveResultAccessor.Result?.AppliedResolvers?.Contains(CookieTenantResolveContributor.ContributorName) == true ||
-                   TenantResolveResultAccessor.Result?.AppliedResolvers?.Contains(QueryStringTenantResolveContributor.ContributorName) == true))
-                {
-                    <div class="card shadow-sm rounded mb-3">
-                        <div class="card-body px-5">
-                            <div class="row">
-                                <div class="col">
-                                    <span style="font-size: .8em;" class="text-uppercase text-muted">@MultiTenancyStringLocalizer["Tenant"]</span><br />
-                                    <h6 class="m-0 d-inline-block">
-                                        @if (CurrentTenant.Id == null)
-                                        {
-                                            <span>
-                                                @MultiTenancyStringLocalizer["NotSelected"]
-                                            </span>
-                                        }
-                                        else
-                                        {
-                                            <strong>@(CurrentTenant.Name ?? CurrentTenant.Id.Value.ToString())</strong>
-                                        }
-                                    </h6>
-                                </div>
-                                <div class="col-auto">
-                                    <a id="AbpTenantSwitchLink" href="javascript:;" class="btn btn-sm mt-3 btn-outline-primary">@MultiTenancyStringLocalizer["Switch"]</a>
-                                </div>
-                            </div>
-                        </div>
+    <div class="d-flex flex-column flex-root" id="kt_app_root">
+        <!--begin::Authentication - Sign-in -->
+        <div class="d-flex flex-column flex-lg-row flex-column-fluid">
+            <!--begin::Body-->
+            <div class="d-flex flex-column flex-lg-row-fluid w-lg-50 p-10 order-2 order-lg-1">
+                <!--begin::Form-->
+                <div class="d-flex flex-center flex-column flex-lg-row-fluid">
+                    <!--begin::Wrapper-->
+                    <div class="w-lg-500px p-10">
+                        @RenderBody()
                     </div>
-                }
-                @(await Component.InvokeAsync<PageAlertsViewComponent>())
-                @await Component.InvokeLayoutHookAsync(LayoutHooks.PageContent.First, StandardLayouts.Account)
-                @RenderBody()
-                @await Component.InvokeLayoutHookAsync(LayoutHooks.PageContent.Last, StandardLayouts.Account)
-            </abp-column>
-        </abp-row>
+                    <!--end::Wrapper-->
+                </div>
+                <!--end::Form-->
+            </div>
+            <!--end::Body-->
+            <!--begin::Aside-->
+            <div class="d-flex flex-lg-row-fluid w-lg-50 bgi-size-cover bgi-position-center order-1 order-lg-2" style="background-image: url(/assets/media/misc/auth-bg.png)">
+                <!--begin::Content-->
+                <div class="d-flex flex-column flex-center py-7 py-lg-15 px-5 px-md-15 w-100">
+                    <!--begin::Logo-->
+                    <a href="/metronic8/demo1/index.html" class="mb-0 mb-lg-12">
+                        <img alt="Logo" src="/assets/media/logos/custom-1.png" class="h-60px h-lg-75px">
+                    </a>
+                    <!--end::Logo-->
+                    <!--begin::Image-->
+                    <img class="d-none d-lg-block mx-auto w-275px w-md-50 w-xl-500px mb-10 mb-lg-20" src="/assets/media/misc/auth-screens.png" alt="">
+                    <!--end::Image-->
+                    <!--begin::Title-->
+                    <h1 class="d-none d-lg-block text-white fs-2qx fw-bolder text-center mb-7">
+                        Fast, Efficient and Productive
+                    </h1>
+                    <!--end::Title-->
+                    <!--begin::Text-->
+                    <div class="d-none d-lg-block text-white fs-base text-center">
+                        In this kind of post, <a href="#" class="opacity-75-hover text-warning fw-bold me-1">the blogger</a>
+
+                        introduces a person they’ve interviewed <br> and provides some background information about
+
+                        <a href="#" class="opacity-75-hover text-warning fw-bold me-1">the interviewee</a>
+                        and their <br> work following this is a transcript of the interview.
+                    </div>
+                    <!--end::Text-->
+                </div>
+                <!--end::Content-->
+            </div>
+            <!--end::Aside-->
+        </div>
+        <!--end::Authentication - Sign-in-->
     </div>
 
     <abp-script-bundle name="@VmsThemeBundles.Scripts.Global" />
@@ -101,9 +133,7 @@
     <script src="~/Abp/ServiceProxyScript"></script>
 
     @await RenderSectionAsync("scripts", false)
+</!body>
+<!--end::Body-->
 
-    @await Component.InvokeAsync(typeof(WidgetScriptsViewComponent))
-
-    @await Component.InvokeLayoutHookAsync(LayoutHooks.Body.Last, StandardLayouts.Account)
-</body>
 </html>

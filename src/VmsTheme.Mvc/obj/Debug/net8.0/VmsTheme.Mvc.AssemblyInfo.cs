@@ -12,7 +12,7 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92a90fa2ba4906db9dd41f9a214050ebb5c76e39")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e358e35df90cbadcf929626652d324cdca9010c1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VmsTheme.Mvc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
