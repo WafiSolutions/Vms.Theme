@@ -22,19 +22,5 @@ public class VmsThemeWebModule : AbpModule
                 options.DefaultThemeName = VmsThemeLayout.Name;
             }
         });
-
-        Configure<AbpLocalizationOptions>(options =>
-        {
-            options.Resources
-                .Add<VmsThemeResource>("en")
-                .AddVirtualJson("/Localization/VmsTheme");
-
-            options.DefaultResourceType = typeof(VmsThemeResource);
-        });
-
-        Configure<AbpExceptionLocalizationOptions>(options =>
-        {
-            options.MapCodeNamespace("Vms", typeof(VmsThemeResource));
-        });
     }
 }

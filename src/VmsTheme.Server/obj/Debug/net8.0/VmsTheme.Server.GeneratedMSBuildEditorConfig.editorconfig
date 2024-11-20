@@ -34,30 +34,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXFBhZ2VUaXRsZUJyZWFkY3J1bWIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Components/Card/VmsCardToolbar.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvbXBvbmVudHNcQ2FyZFxWbXNDYXJkVG9vbGJhci5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Components/Modal/VmsModal.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvbXBvbmVudHNcTW9kYWxcVm1zTW9kYWwucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Components/Modal/VmsModalBody.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvbXBvbmVudHNcTW9kYWxcVm1zTW9kYWxCb2R5LnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Components/Modal/VmsModalFooter.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvbXBvbmVudHNcTW9kYWxcVm1zTW9kYWxGb290ZXIucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Components/VmsAlertMessage.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvbXBvbmVudHNcVm1zQWxlcnRNZXNzYWdlLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Components/VmsTableFilter.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvbXBvbmVudHNcVm1zVGFibGVGaWx0ZXIucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
 [F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Anonymous.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxBbm9ueW1vdXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
