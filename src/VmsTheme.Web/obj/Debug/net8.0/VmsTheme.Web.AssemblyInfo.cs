@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VmsTheme.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e358e35df90cbadcf929626652d324cdca9010c1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+672ac24217411406bec97563c71066bbc8f60d1b")]
 [assembly: System.Reflection.AssemblyProductAttribute("VmsTheme.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VmsTheme.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

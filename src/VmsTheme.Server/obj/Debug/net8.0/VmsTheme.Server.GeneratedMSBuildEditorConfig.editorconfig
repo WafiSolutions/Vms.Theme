@@ -9,575 +9,577 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = VmsTheme.Server
 build_property.RootNamespace = VmsTheme.Server
-build_property.ProjectDir = F:\Projects\Takamol\Vms.Theme\src\VmsTheme.Server\
+build_property.ProjectDir = E:\Takamol\Vms.Theme\src\VmsTheme.Server\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = F:\Projects\Takamol\Vms.Theme\src\VmsTheme.Server
+build_property.MSBuildProjectDirectory = E:\Takamol\Vms.Theme\src\VmsTheme.Server
 build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Pages/Error/Error.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Pages/Error/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3JcRXJyb3IucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Pages/Error/PageNotFound.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Pages/Error/PageNotFound.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3JcUGFnZU5vdEZvdW5kLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Pages/Error/_Imports.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Pages/Error/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3JcX0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Pages/Shared/PageTitleBreadcrumb.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Pages/Shared/PageTitleBreadcrumb.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXFBhZ2VUaXRsZUJyZWFkY3J1bWIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Anonymous.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Anonymous.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxBbm9ueW1vdXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Auth.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Auth.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxBdXRoLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/DefaultDarkHeader.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/DefaultDarkHeader.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxEZWZhdWx0RGFya0hlYWRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/DefaultDarkSidebar.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/DefaultDarkSidebar.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxEZWZhdWx0RGFya1NpZGViYXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/DefaultLightHeader.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/DefaultLightHeader.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxEZWZhdWx0TGlnaHRIZWFkZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/DefaultLightSidebar.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/DefaultLightSidebar.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxEZWZhdWx0TGlnaHRTaWRlYmFyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/HeaderLayout/Header/_Menu/_Menu.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/HeaderLayout/Header/_Menu/_Menu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxQYXJ0aWFsc1xIZWFkZXJMYXlvdXRcSGVhZGVyXF9NZW51XF9NZW51LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/HeaderLayout/Header/_Menu/__Dashboards.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/HeaderLayout/Header/_Menu/__Dashboards.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxQYXJ0aWFsc1xIZWFkZXJMYXlvdXRcSGVhZGVyXF9NZW51XF9fRGFzaGJvYXJkcy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/HeaderLayout/Header/_Menu/__Layouts.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/HeaderLayout/Header/_Menu/__Layouts.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxQYXJ0aWFsc1xIZWFkZXJMYXlvdXRcSGVhZGVyXF9NZW51XF9fTGF5b3V0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/HeaderLayout/Header/_Menu/__Pages.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/HeaderLayout/Header/_Menu/__Pages.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxQYXJ0aWFsc1xIZWFkZXJMYXlvdXRcSGVhZGVyXF9NZW51XF9fUGFnZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/HeaderLayout/Header/_Menu/__PagesAccount.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/HeaderLayout/Header/_Menu/__PagesAccount.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxQYXJ0aWFsc1xIZWFkZXJMYXlvdXRcSGVhZGVyXF9NZW51XF9fUGFnZXNBY2NvdW50LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/HeaderLayout/Header/_Menu/__PagesAuthentication.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/HeaderLayout/Header/_Menu/__PagesAuthentication.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxQYXJ0aWFsc1xIZWFkZXJMYXlvdXRcSGVhZGVyXF9NZW51XF9fUGFnZXNBdXRoZW50aWNhdGlvbi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/HeaderLayout/Header/_Menu/__PagesGeneral.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/HeaderLayout/Header/_Menu/__PagesGeneral.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxQYXJ0aWFsc1xIZWFkZXJMYXlvdXRcSGVhZGVyXF9NZW51XF9fUGFnZXNHZW5lcmFsLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/HeaderLayout/Header/_Menu/__PagesUtilities.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/HeaderLayout/Header/_Menu/__PagesUtilities.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxQYXJ0aWFsc1xIZWFkZXJMYXlvdXRcSGVhZGVyXF9NZW51XF9fUGFnZXNVdGlsaXRpZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/HeaderLayout/Header/_Menu/__PagesWidgets.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/HeaderLayout/Header/_Menu/__PagesWidgets.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxQYXJ0aWFsc1xIZWFkZXJMYXlvdXRcSGVhZGVyXF9NZW51XF9fUGFnZXNXaWRnZXRzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/HeaderLayout/Header/_Navbar.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/HeaderLayout/Header/_Navbar.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxQYXJ0aWFsc1xIZWFkZXJMYXlvdXRcSGVhZGVyXF9OYXZiYXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/HeaderLayout/Search/Partials/_AdvancedOptions.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/HeaderLayout/Search/Partials/_AdvancedOptions.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxQYXJ0aWFsc1xIZWFkZXJMYXlvdXRcU2VhcmNoXFBhcnRpYWxzXF9BZHZhbmNlZE9wdGlvbnMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/HeaderLayout/Search/Partials/_Empty.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/HeaderLayout/Search/Partials/_Empty.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxQYXJ0aWFsc1xIZWFkZXJMYXlvdXRcU2VhcmNoXFBhcnRpYWxzXF9FbXB0eS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/HeaderLayout/Search/Partials/_FormDropdown.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/HeaderLayout/Search/Partials/_FormDropdown.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxQYXJ0aWFsc1xIZWFkZXJMYXlvdXRcU2VhcmNoXFBhcnRpYWxzXF9Gb3JtRHJvcGRvd24ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/HeaderLayout/Search/Partials/_Main.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/HeaderLayout/Search/Partials/_Main.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxQYXJ0aWFsc1xIZWFkZXJMYXlvdXRcU2VhcmNoXFBhcnRpYWxzXF9NYWluLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/HeaderLayout/Search/Partials/_Preferences.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/HeaderLayout/Search/Partials/_Preferences.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxQYXJ0aWFsc1xIZWFkZXJMYXlvdXRcU2VhcmNoXFBhcnRpYWxzXF9QcmVmZXJlbmNlcy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/HeaderLayout/Search/Partials/_Results.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/HeaderLayout/Search/Partials/_Results.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxQYXJ0aWFsc1xIZWFkZXJMYXlvdXRcU2VhcmNoXFBhcnRpYWxzXF9SZXN1bHRzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/HeaderLayout/Search/_Dropdown.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/HeaderLayout/Search/_Dropdown.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxQYXJ0aWFsc1xIZWFkZXJMYXlvdXRcU2VhcmNoXF9Ecm9wZG93bi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/HeaderLayout/_Footer.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/HeaderLayout/_Footer.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxQYXJ0aWFsc1xIZWFkZXJMYXlvdXRcX0Zvb3Rlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/HeaderLayout/_Header.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/HeaderLayout/_Header.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxQYXJ0aWFsc1xIZWFkZXJMYXlvdXRcX0hlYWRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/HeaderLayout/_PageTitle.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/HeaderLayout/_PageTitle.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxQYXJ0aWFsc1xIZWFkZXJMYXlvdXRcX1BhZ2VUaXRsZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/HeaderLayout/_Toolbar.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/HeaderLayout/_Toolbar.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxQYXJ0aWFsc1xIZWFkZXJMYXlvdXRcX1Rvb2xiYXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/SidebarLayout/Header/_Menu/_Menu.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/SidebarLayout/Header/_Menu/_Menu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxQYXJ0aWFsc1xTaWRlYmFyTGF5b3V0XEhlYWRlclxfTWVudVxfTWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/SidebarLayout/Header/_Menu/__Dashboards.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/SidebarLayout/Header/_Menu/__Dashboards.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxQYXJ0aWFsc1xTaWRlYmFyTGF5b3V0XEhlYWRlclxfTWVudVxfX0Rhc2hib2FyZHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/SidebarLayout/Header/_Menu/__Layouts.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/SidebarLayout/Header/_Menu/__Layouts.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxQYXJ0aWFsc1xTaWRlYmFyTGF5b3V0XEhlYWRlclxfTWVudVxfX0xheW91dHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/SidebarLayout/Header/_Menu/__Pages.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/SidebarLayout/Header/_Menu/__Pages.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxQYXJ0aWFsc1xTaWRlYmFyTGF5b3V0XEhlYWRlclxfTWVudVxfX1BhZ2VzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/SidebarLayout/Header/_Menu/__PagesAccount.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/SidebarLayout/Header/_Menu/__PagesAccount.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxQYXJ0aWFsc1xTaWRlYmFyTGF5b3V0XEhlYWRlclxfTWVudVxfX1BhZ2VzQWNjb3VudC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/SidebarLayout/Header/_Menu/__PagesAuthentication.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/SidebarLayout/Header/_Menu/__PagesAuthentication.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxQYXJ0aWFsc1xTaWRlYmFyTGF5b3V0XEhlYWRlclxfTWVudVxfX1BhZ2VzQXV0aGVudGljYXRpb24ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/SidebarLayout/Header/_Menu/__PagesGeneral.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/SidebarLayout/Header/_Menu/__PagesGeneral.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxQYXJ0aWFsc1xTaWRlYmFyTGF5b3V0XEhlYWRlclxfTWVudVxfX1BhZ2VzR2VuZXJhbC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/SidebarLayout/Header/_Menu/__PagesUtilities.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/SidebarLayout/Header/_Menu/__PagesUtilities.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxQYXJ0aWFsc1xTaWRlYmFyTGF5b3V0XEhlYWRlclxfTWVudVxfX1BhZ2VzVXRpbGl0aWVzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/SidebarLayout/Header/_Menu/__PagesWidgets.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/SidebarLayout/Header/_Menu/__PagesWidgets.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxQYXJ0aWFsc1xTaWRlYmFyTGF5b3V0XEhlYWRlclxfTWVudVxfX1BhZ2VzV2lkZ2V0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/SidebarLayout/Header/_Navbar.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/SidebarLayout/Header/_Navbar.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxQYXJ0aWFsc1xTaWRlYmFyTGF5b3V0XEhlYWRlclxfTmF2YmFyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/SidebarLayout/Search/Partials/_AdvancedOptions.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/SidebarLayout/Search/Partials/_AdvancedOptions.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxQYXJ0aWFsc1xTaWRlYmFyTGF5b3V0XFNlYXJjaFxQYXJ0aWFsc1xfQWR2YW5jZWRPcHRpb25zLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/SidebarLayout/Search/Partials/_Empty.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/SidebarLayout/Search/Partials/_Empty.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxQYXJ0aWFsc1xTaWRlYmFyTGF5b3V0XFNlYXJjaFxQYXJ0aWFsc1xfRW1wdHkucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/SidebarLayout/Search/Partials/_FormDropdown.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/SidebarLayout/Search/Partials/_FormDropdown.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxQYXJ0aWFsc1xTaWRlYmFyTGF5b3V0XFNlYXJjaFxQYXJ0aWFsc1xfRm9ybURyb3Bkb3duLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/SidebarLayout/Search/Partials/_Main.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/SidebarLayout/Search/Partials/_Main.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxQYXJ0aWFsc1xTaWRlYmFyTGF5b3V0XFNlYXJjaFxQYXJ0aWFsc1xfTWFpbi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/SidebarLayout/Search/Partials/_Preferences.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/SidebarLayout/Search/Partials/_Preferences.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxQYXJ0aWFsc1xTaWRlYmFyTGF5b3V0XFNlYXJjaFxQYXJ0aWFsc1xfUHJlZmVyZW5jZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/SidebarLayout/Search/Partials/_Results.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/SidebarLayout/Search/Partials/_Results.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxQYXJ0aWFsc1xTaWRlYmFyTGF5b3V0XFNlYXJjaFxQYXJ0aWFsc1xfUmVzdWx0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/SidebarLayout/Search/_Dropdown.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/SidebarLayout/Search/_Dropdown.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxQYXJ0aWFsc1xTaWRlYmFyTGF5b3V0XFNlYXJjaFxfRHJvcGRvd24ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/SidebarLayout/Sidebar/SidebarMenuItemMaker.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/SidebarLayout/Sidebar/SidebarMenuItemMaker.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxQYXJ0aWFsc1xTaWRlYmFyTGF5b3V0XFNpZGViYXJcU2lkZWJhck1lbnVJdGVtTWFrZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/SidebarLayout/Sidebar/_SidebarFooter.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/SidebarLayout/Sidebar/_SidebarFooter.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxQYXJ0aWFsc1xTaWRlYmFyTGF5b3V0XFNpZGViYXJcX1NpZGViYXJGb290ZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/SidebarLayout/Sidebar/_SidebarLogo.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/SidebarLayout/Sidebar/_SidebarLogo.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxQYXJ0aWFsc1xTaWRlYmFyTGF5b3V0XFNpZGViYXJcX1NpZGViYXJMb2dvLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/SidebarLayout/Sidebar/_SidebarMenu.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/SidebarLayout/Sidebar/_SidebarMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxQYXJ0aWFsc1xTaWRlYmFyTGF5b3V0XFNpZGViYXJcX1NpZGViYXJNZW51LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/SidebarLayout/_Footer.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/SidebarLayout/_Footer.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxQYXJ0aWFsc1xTaWRlYmFyTGF5b3V0XF9Gb290ZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/SidebarLayout/_Header.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/SidebarLayout/_Header.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxQYXJ0aWFsc1xTaWRlYmFyTGF5b3V0XF9IZWFkZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/SidebarLayout/_PageTitle.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/SidebarLayout/_PageTitle.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxQYXJ0aWFsc1xTaWRlYmFyTGF5b3V0XF9QYWdlVGl0bGUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/SidebarLayout/_Sidebar.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/SidebarLayout/_Sidebar.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxQYXJ0aWFsc1xTaWRlYmFyTGF5b3V0XF9TaWRlYmFyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/SidebarLayout/_Toolbar.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/Partials/SidebarLayout/_Toolbar.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxQYXJ0aWFsc1xTaWRlYmFyTGF5b3V0XF9Ub29sYmFyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/SystemLayout.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/SystemLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxTeXN0ZW1MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/_Imports.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxfSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/_LayoutScripts.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Layout/_LayoutScripts.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dFxfTGF5b3V0U2NyaXB0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/MasterInit.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/MasterInit.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1hc3RlckluaXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Drawers/_ActivityDrawer.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Drawers/_ActivityDrawer.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXERyYXdlcnNcX0FjdGl2aXR5RHJhd2VyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Drawers/_ChatMessenger.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Drawers/_ChatMessenger.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXERyYXdlcnNcX0NoYXRNZXNzZW5nZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Drawers/_ShoppingCart.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Drawers/_ShoppingCart.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXERyYXdlcnNcX1Nob3BwaW5nQ2FydC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/General/_BankPopoverHint.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/General/_BankPopoverHint.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXEdlbmVyYWxcX0JhbmtQb3BvdmVySGludC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/General/_ButtonIndicator.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/General/_ButtonIndicator.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXEdlbmVyYWxcX0J1dHRvbkluZGljYXRvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/General/_FormTooltipHint.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/General/_FormTooltipHint.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXEdlbmVyYWxcX0Zvcm1Ub29sdGlwSGludC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/General/_Notice.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/General/_Notice.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXEdlbmVyYWxcX05vdGljZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Menus/_Menu1.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Menus/_Menu1.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXE1lbnVzXF9NZW51MS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Menus/_Menu2.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Menus/_Menu2.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXE1lbnVzXF9NZW51Mi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Menus/_Menu3.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Menus/_Menu3.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXE1lbnVzXF9NZW51My5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Menus/_MyAppsMenu.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Menus/_MyAppsMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXE1lbnVzXF9NeUFwcHNNZW51LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Menus/_NotificationsMenu.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Menus/_NotificationsMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXE1lbnVzXF9Ob3RpZmljYXRpb25zTWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Menus/_QuickLinksMenu.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Menus/_QuickLinksMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXE1lbnVzXF9RdWlja0xpbmtzTWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Menus/_UserAccountMenu.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Menus/_UserAccountMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXE1lbnVzXF9Vc2VyQWNjb3VudE1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/CreateApp/Steps/_Step1.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/CreateApp/Steps/_Step1.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXE1vZGFsc1xDcmVhdGVBcHBcU3RlcHNcX1N0ZXAxLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/CreateApp/Steps/_Step2.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/CreateApp/Steps/_Step2.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXE1vZGFsc1xDcmVhdGVBcHBcU3RlcHNcX1N0ZXAyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/CreateApp/Steps/_Step3.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/CreateApp/Steps/_Step3.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXE1vZGFsc1xDcmVhdGVBcHBcU3RlcHNcX1N0ZXAzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/CreateApp/Steps/_Step4.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/CreateApp/Steps/_Step4.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXE1vZGFsc1xDcmVhdGVBcHBcU3RlcHNcX1N0ZXA0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/CreateApp/Steps/_Step5.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/CreateApp/Steps/_Step5.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXE1vZGFsc1xDcmVhdGVBcHBcU3RlcHNcX1N0ZXA1LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/CreateApp/_MainCreateApp.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/CreateApp/_MainCreateApp.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXE1vZGFsc1xDcmVhdGVBcHBcX01haW5DcmVhdGVBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/CreateCampaign/Steps/_Step1.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/CreateCampaign/Steps/_Step1.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXE1vZGFsc1xDcmVhdGVDYW1wYWlnblxTdGVwc1xfU3RlcDEucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/CreateCampaign/Steps/_Step2.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/CreateCampaign/Steps/_Step2.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXE1vZGFsc1xDcmVhdGVDYW1wYWlnblxTdGVwc1xfU3RlcDIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/CreateCampaign/Steps/_Step3.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/CreateCampaign/Steps/_Step3.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXE1vZGFsc1xDcmVhdGVDYW1wYWlnblxTdGVwc1xfU3RlcDMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/CreateCampaign/Steps/_Step4.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/CreateCampaign/Steps/_Step4.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXE1vZGFsc1xDcmVhdGVDYW1wYWlnblxTdGVwc1xfU3RlcDQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/CreateCampaign/Steps/_Step5.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/CreateCampaign/Steps/_Step5.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXE1vZGFsc1xDcmVhdGVDYW1wYWlnblxTdGVwc1xfU3RlcDUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/CreateCampaign/_Main.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/CreateCampaign/_Main.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXE1vZGFsc1xDcmVhdGVDYW1wYWlnblxfTWFpbi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/CreateCampaign/_MainCreateCampaign.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/CreateCampaign/_MainCreateCampaign.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXE1vZGFsc1xDcmVhdGVDYW1wYWlnblxfTWFpbkNyZWF0ZUNhbXBhaWduLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/CreateProject/Steps/_Budget.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/CreateProject/Steps/_Budget.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXE1vZGFsc1xDcmVhdGVQcm9qZWN0XFN0ZXBzXF9CdWRnZXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/CreateProject/Steps/_Complete.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/CreateProject/Steps/_Complete.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXE1vZGFsc1xDcmVhdGVQcm9qZWN0XFN0ZXBzXF9Db21wbGV0ZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/CreateProject/Steps/_Files.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/CreateProject/Steps/_Files.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXE1vZGFsc1xDcmVhdGVQcm9qZWN0XFN0ZXBzXF9GaWxlcy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/CreateProject/Steps/_Settings.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/CreateProject/Steps/_Settings.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXE1vZGFsc1xDcmVhdGVQcm9qZWN0XFN0ZXBzXF9TZXR0aW5ncy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/CreateProject/Steps/_Targets.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/CreateProject/Steps/_Targets.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXE1vZGFsc1xDcmVhdGVQcm9qZWN0XFN0ZXBzXF9UYXJnZXRzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/CreateProject/Steps/_Team.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/CreateProject/Steps/_Team.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXE1vZGFsc1xDcmVhdGVQcm9qZWN0XFN0ZXBzXF9UZWFtLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/CreateProject/Steps/_Type.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/CreateProject/Steps/_Type.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXE1vZGFsc1xDcmVhdGVQcm9qZWN0XFN0ZXBzXF9UeXBlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/CreateProject/_Main.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/CreateProject/_Main.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXE1vZGFsc1xDcmVhdGVQcm9qZWN0XF9NYWluLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/CreateProject/_MainCreateProject.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/CreateProject/_MainCreateProject.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXE1vZGFsc1xDcmVhdGVQcm9qZWN0XF9NYWluQ3JlYXRlUHJvamVjdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/NewCard/_Form.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/NewCard/_Form.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXE1vZGFsc1xOZXdDYXJkXF9Gb3JtLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/UsersSearch/Partials/_Empty.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/UsersSearch/Partials/_Empty.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXE1vZGFsc1xVc2Vyc1NlYXJjaFxQYXJ0aWFsc1xfRW1wdHkucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/UsersSearch/Partials/_Results.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/UsersSearch/Partials/_Results.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXE1vZGFsc1xVc2Vyc1NlYXJjaFxQYXJ0aWFsc1xfUmVzdWx0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/UsersSearch/Partials/_Suggestions.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/UsersSearch/Partials/_Suggestions.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXE1vZGFsc1xVc2Vyc1NlYXJjaFxQYXJ0aWFsc1xfU3VnZ2VzdGlvbnMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/UsersSearch/_Main.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/UsersSearch/_Main.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXE1vZGFsc1xVc2Vyc1NlYXJjaFxfTWFpbi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/_InviteFriends.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/_InviteFriends.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXE1vZGFsc1xfSW52aXRlRnJpZW5kcy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/_NewTarget.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/_NewTarget.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXE1vZGFsc1xfTmV3VGFyZ2V0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/_UpgradePlan.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/_UpgradePlan.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXE1vZGFsc1xfVXBncmFkZVBsYW4ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/_ViewUsers.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Modals/_ViewUsers.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXE1vZGFsc1xfVmlld1VzZXJzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/ThemeMode/_Main.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/ThemeMode/_Main.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXFRoZW1lTW9kZVxfTWFpbi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/ThemeMode/__Menu.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/ThemeMode/__Menu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXFRoZW1lTW9kZVxfX01lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Widgets/Cards/_CardsWidget17.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Widgets/Cards/_CardsWidget17.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXFdpZGdldHNcQ2FyZHNcX0NhcmRzV2lkZ2V0MTcucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Widgets/Cards/_CardsWidget18.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Widgets/Cards/_CardsWidget18.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXFdpZGdldHNcQ2FyZHNcX0NhcmRzV2lkZ2V0MTgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Widgets/Cards/_CardsWidget20.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Widgets/Cards/_CardsWidget20.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXFdpZGdldHNcQ2FyZHNcX0NhcmRzV2lkZ2V0MjAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Widgets/Cards/_CardsWidget4.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Widgets/Cards/_CardsWidget4.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXFdpZGdldHNcQ2FyZHNcX0NhcmRzV2lkZ2V0NC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Widgets/Cards/_CardsWidget7.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Widgets/Cards/_CardsWidget7.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXFdpZGdldHNcQ2FyZHNcX0NhcmRzV2lkZ2V0Ny5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Widgets/Charts/_ChartsWidget1.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Widgets/Charts/_ChartsWidget1.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXFdpZGdldHNcQ2hhcnRzXF9DaGFydHNXaWRnZXQxLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Widgets/Charts/_ChartsWidget24.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Widgets/Charts/_ChartsWidget24.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXFdpZGdldHNcQ2hhcnRzXF9DaGFydHNXaWRnZXQyNC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Widgets/Charts/_ChartsWidget31.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Widgets/Charts/_ChartsWidget31.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXFdpZGdldHNcQ2hhcnRzXF9DaGFydHNXaWRnZXQzMS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Widgets/Charts/_ChartsWidget35.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Widgets/Charts/_ChartsWidget35.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXFdpZGdldHNcQ2hhcnRzXF9DaGFydHNXaWRnZXQzNS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Widgets/Charts/_ChartsWidget36.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Widgets/Charts/_ChartsWidget36.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXFdpZGdldHNcQ2hhcnRzXF9DaGFydHNXaWRnZXQzNi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Widgets/Charts/_ChartsWidget5.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Widgets/Charts/_ChartsWidget5.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXFdpZGdldHNcQ2hhcnRzXF9DaGFydHNXaWRnZXQ1LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Widgets/Charts/_ChartsWidget8.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Widgets/Charts/_ChartsWidget8.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXFdpZGdldHNcQ2hhcnRzXF9DaGFydHNXaWRnZXQ4LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Widgets/Charts/_ChartsWidget9.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Widgets/Charts/_ChartsWidget9.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXFdpZGdldHNcQ2hhcnRzXF9DaGFydHNXaWRnZXQ5LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Widgets/Engage/_EngageWidget10.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Widgets/Engage/_EngageWidget10.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXFdpZGdldHNcRW5nYWdlXF9FbmdhZ2VXaWRnZXQxMC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Widgets/Engage/_EngageWidget2.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Widgets/Engage/_EngageWidget2.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXFdpZGdldHNcRW5nYWdlXF9FbmdhZ2VXaWRnZXQyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Widgets/Lists/_ListsWidget13.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Widgets/Lists/_ListsWidget13.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXFdpZGdldHNcTGlzdHNcX0xpc3RzV2lkZ2V0MTMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Widgets/Lists/_ListsWidget14.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Widgets/Lists/_ListsWidget14.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXFdpZGdldHNcTGlzdHNcX0xpc3RzV2lkZ2V0MTQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Widgets/Lists/_ListsWidget15.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Widgets/Lists/_ListsWidget15.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXFdpZGdldHNcTGlzdHNcX0xpc3RzV2lkZ2V0MTUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Widgets/Lists/_ListsWidget26.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Widgets/Lists/_ListsWidget26.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXFdpZGdldHNcTGlzdHNcX0xpc3RzV2lkZ2V0MjYucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Widgets/Lists/_ListsWidget3.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Widgets/Lists/_ListsWidget3.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXFdpZGdldHNcTGlzdHNcX0xpc3RzV2lkZ2V0My5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Widgets/Tables/_TablesWidget14.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Widgets/Tables/_TablesWidget14.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXFdpZGdldHNcVGFibGVzXF9UYWJsZXNXaWRnZXQxNC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Widgets/Tables/_TablesWidget16.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Widgets/Tables/_TablesWidget16.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXFdpZGdldHNcVGFibGVzXF9UYWJsZXNXaWRnZXQxNi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Widgets/Tables/_TablesWidget3.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Widgets/Tables/_TablesWidget3.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXFdpZGdldHNcVGFibGVzXF9UYWJsZXNXaWRnZXQzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Widgets/Timeline/_TimelineWidget1.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Widgets/Timeline/_TimelineWidget1.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXFdpZGdldHNcVGltZWxpbmVcX1RpbWVsaW5lV2lkZ2V0MS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Widgets/_Imports.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/Widgets/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXFdpZGdldHNcX0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/_Drawers.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/_Drawers.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXF9EcmF3ZXJzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/_ModalComponents.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/_ModalComponents.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXF9Nb2RhbENvbXBvbmVudHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/_Scrolltop.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/Partials/_Scrolltop.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhcnRpYWxzXF9TY3JvbGx0b3AucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/_Imports.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Shared/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXF9JbXBvcnRzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Themes/Vms/App.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Themes/Vms/App.razor]
 build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXFZtc1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Themes/Vms/LanguageSwitch.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Themes/Vms/LanguageSwitch.razor]
 build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXFZtc1xMYW5ndWFnZVN3aXRjaC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Themes/Vms/LoginDisplay.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Themes/Vms/LoginDisplay.razor]
 build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXFZtc1xMb2dpbkRpc3BsYXkucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Takamol/Vms.Theme/src/VmsTheme.Server/Themes/Vms/_Imports.razor]
+[E:/Takamol/Vms.Theme/src/VmsTheme.Server/Themes/Vms/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXFZtc1xfSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
