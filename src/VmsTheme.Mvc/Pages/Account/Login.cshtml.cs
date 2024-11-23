@@ -26,7 +26,7 @@ public class LoginModel : AccountPageModel
 {
     [HiddenInput]
     [BindProperty(SupportsGet = true)]
-    public string ReturnUrl { get; set; }
+    public string ReturnUrl { get; set; } = "/home";
 
     [HiddenInput]
     [BindProperty(SupportsGet = true)]
