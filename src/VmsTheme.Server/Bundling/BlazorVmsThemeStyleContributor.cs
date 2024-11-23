@@ -16,6 +16,7 @@ public class BlazorVmsThemeStyleContributor : BundleContributor
         context.Files.AddIfNotContains("/_content/Blazorise.Snackbar/blazorise.snackbar.css");
         context.Files.AddIfNotContains("/libs/datatables.net-bs5/css/dataTables.bootstrap5.css");
         context.Files.AddIfNotContains("/libs/abp/aspnetcore-mvc-ui-theme-shared/datatables/datatables-styles.css");
+        context.Files.AddIfNotContains("/aa/css/test.css");
 
         var KTTheme = new KTTheme();
         foreach (string font in KTTheme.GetFonts())
