@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 
 namespace VmsTheme.Web._keenthemes.libs;
@@ -71,9 +72,7 @@ public class KTTheme: IKTTheme
     // Get SVG icon content
     public string GetSvgIcon(string path, string classNames)
     {
-        var svg = System.IO.File.ReadAllText($"./wwwroot/assets/media/icons/{path}");
-
-        return $"<span class=\"{classNames}\">{svg}</span>";
+        return $"<span class=\"{classNames}\"><object data=\"/icons/{path}\"/></span>";
     }
 
     // Get keenthemes icon

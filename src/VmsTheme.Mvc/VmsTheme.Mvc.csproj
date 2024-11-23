@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Razor">
+﻿<Project Sdk="Microsoft.NET.Sdk.Razor">
 
   
   
@@ -17,11 +17,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <EmbeddedResource Include="wwwroot\**\*.*" />
+    <EmbeddedResource Include="wwwroot\**" />
   </ItemGroup>
 
   <ItemGroup>
-    <Content Remove="wwwroot\**\*.*" />
+    <Content Remove="wwwroot\**" />
   </ItemGroup>
 
   <ItemGroup>
