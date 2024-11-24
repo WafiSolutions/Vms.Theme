@@ -89,7 +89,7 @@ public class VmsThemeServerModule : AbpModule
                 .AddJsonStream(stream)
                 .Build();
 
-            KTThemeSettings.init(configuration);
+            KTIconsSettings.init(configuration);
         }
     }
 }
