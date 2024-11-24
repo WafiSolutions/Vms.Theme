@@ -1,0 +1,45 @@
+# Compiled files and build folders
+bin/
+obj/
+*.dll
+*.exe
+
+# User-specific files
+*.user
+*.suo
+
+# IDE-specific files
+.vscode/
+.idea/
+*.csproj.user
+*.vs/
+
+# Logs
+*.log
+logs/
+
+# Dependency folders
+node_modules/
+wwwroot/lib/
+wwwroot/dist/
+
+# NPM debug file
+npm-debug.log*
+
+# Publish output
+**/publish/
+**/publishOutput/
+
+# ABP CLI output
+.abp/
+
+# Generated code files
+*.Swagger/
+*.OpenApi/
+
+# EF migrations backups
+MigrationsBackup/
+
+# Environment files
+.env
+.env.*
