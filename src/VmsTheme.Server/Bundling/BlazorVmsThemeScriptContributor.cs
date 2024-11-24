@@ -27,5 +27,6 @@ public class BlazorVmsThemeScriptContributor : BundleContributor
         context.Files.AddIfNotContains("/assets/datatable-buttons-extension/js/buttons.print.min.js");
         context.Files.AddIfNotContains("/assets/js/datatable-helper.js");
         context.Files.AddIfNotContains("/assets/js/modal-helper.js");
+        context.Files.AddIfNotContains("/assets/js/dropzone-config.js");
     }
 }
