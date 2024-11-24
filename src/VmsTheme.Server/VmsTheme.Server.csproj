@@ -11,11 +11,19 @@
 	<OutputType>Library</OutputType>
   </PropertyGroup>
 
-  <ItemGroup>
+	<ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.WebUtilities" />
   </ItemGroup>
 
-  <ItemGroup>
+	<ItemGroup>
+		<EmbeddedResource Include="_keenthemes\**" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Content Remove="_keenthemes\**" />
+	</ItemGroup>
+
+	<ItemGroup>
     <PackageReference Include="Volo.Abp.AspNetCore.Components.Server.Theming" VersionOverride="8.3.2" />
     <ProjectReference Include="..\VmsTheme.Web\VmsTheme.Web.csproj" />
   </ItemGroup>

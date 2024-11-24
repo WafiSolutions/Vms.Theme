@@ -57,15 +57,39 @@ public class VmsThemeServerModule : AbpModule
     {
         context.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
 
-        IConfiguration themeConfiguration = new ConfigurationBuilder()
-                                    .AddJsonFile("_keenthemes/config/themesettings.json")
-                                    .Build();
+        // Get the assembly where the resource is embedded
+        var assembly = Assembly.GetExecutingAssembly();  // Or use the specific assembly if needed
 
-        IConfiguration iconsConfiguration = new ConfigurationBuilder()
-                                    .AddJsonFile("_keenthemes/config/icons.json")
-                                    .Build();
+        // The full name of the resource: it will be based on the namespace and file path.
+        string themesettings = "VmsTheme.Server._keenthemes.config.themesettings.json";
+        string icons = "VmsTheme.Server._keenthemes.config.icons.json";
 
-        KTThemeSettings.init(themeConfiguration);
-        KTIconsSettings.init(iconsConfiguration);
+        // Open the embedded resource stream
+        using (var stream = assembly.GetManifestResourceStream(themesettings))
+        {
+            if (stream == null)
+                throw new FileNotFoundException($"Resource {themesettings} not found.");
+
+            // Build the configuration using the stream
+            var configuration = new ConfigurationBuilder()
+                .AddJsonStream(stream)
+                .Build();
+
+            KTThemeSettings.init(configuration);
+        }
+
+        // Open the embedded resource stream
+        using (var stream = assembly.GetManifestResourceStream(icons))
+        {
+            if (stream == null)
+                throw new FileNotFoundException($"Resource {icons} not found.");
+
+            // Build the configuration using the stream
+            var configuration = new ConfigurationBuilder()
+                .AddJsonStream(stream)
+                .Build();
+
+            KTThemeSettings.init(configuration);
+        }
     }
 }
