@@ -22,6 +22,7 @@ const defaultOptions = {
 
 function initializeDataTable(dotNetRef, options)
 {
+    _filter = {};
     _dotNetRef = dotNetRef;
 
     var datatables = abp.utils.createNamespace(abp, 'libs.datatables');
