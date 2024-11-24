@@ -1,0 +1,13 @@
+﻿@page "/"
+@using System.Globalization
+@using VmsTheme.Server.Themes.Vms
+@using VmsTheme.Web.Themes.Vms
+@using Volo.Abp.Localization
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    Layout = "_Master";
+    var rtl = CultureHelper.IsRtl ? "rtl" : string.Empty;
+}
+
+<component type="typeof(App)" render-mode="Server" />
+
