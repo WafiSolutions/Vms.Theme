@@ -37,7 +37,15 @@
 @{
     BootstrapBase.Init(KTTheme);
     var rtl = false;
-    rtl = GetBooleanSetting(await _settingManager.GetOrNullForCurrentUserAsync(ThemeSettings.Rtl));
+    try
+    {
+        rtl = GetBooleanSetting(await _settingManager.GetOrNullForCurrentUserAsync(ThemeSettings.Rtl));
+    }
+    catch (Exception)
+    {
+        rtl = false;
+    }
+    
     var ltrConfigurations = Html.Raw(KTTheme.PrintHtmlAttributes("html"));
     var rtlConfigurations = "dir=rtl direction=rtl style=direction:rtl;";
 }
