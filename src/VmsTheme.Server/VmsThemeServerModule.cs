@@ -13,12 +13,14 @@ using VmsTheme.Web._keenthemes.libs;
 using System.IO;
 using System.Reflection;
 using System;
+using Volo.Abp.SettingManagement;
 
 namespace VmsTheme.Server;
 
 [DependsOn(
     typeof(VmsThemeWebModule),
-    typeof(AbpAspNetCoreComponentsServerThemingModule)
+    typeof(AbpAspNetCoreComponentsServerThemingModule),
+    typeof(AbpSettingManagementApplicationModule)
     )]
 public class VmsThemeServerModule : AbpModule
 {

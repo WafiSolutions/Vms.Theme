@@ -1,8 +1,10 @@
 ﻿@using Microsoft.AspNetCore.Components.Web
 @using System.Globalization
 @using VmsTheme.Server.Bundling
+@using VmsTheme.Web.Configuration
 @using VmsTheme.Web._keenthemes
 @using VmsTheme.Web._keenthemes.libs
+@using Volo.Abp.SettingManagement
 
 @addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
 @addTagHelper *, Volo.Abp.AspNetCore.Mvc.UI
@@ -11,18 +13,37 @@
 
 @inject IBootstrapBase BootstrapBase
 @inject IKTTheme KTTheme
-@* @inject ISettingManagerAppService _settingManager *@
+@inject ISettingManager _settingManager
+
+@functions {
+    protected bool GetBooleanSetting(string settingValue)
+    {
+        if (!string.IsNullOrEmpty(settingValue))
+        {
+            if (bool.TryParse(settingValue, out bool parsedValue))
+            {
+                return parsedValue;
+            }
+            else
+            {
+                return false;
+            }
+        }
+
+        return false;
+    }
+}
 
 @{
     BootstrapBase.Init(KTTheme);
-    // var globalSettings = await _settingManager.GetGlobalSettings();
-    // var rtl = globalSettings.Rtl;
-    // var ltrConfigurations = Html.Raw(KTTheme.PrintHtmlAttributes("html"));
-    // var rtlConfigurations = "dir=rtl direction=rtl style=direction:rtl;";
+    var rtl = false;
+    rtl = GetBooleanSetting(await _settingManager.GetOrNullForCurrentUserAsync(ThemeSettings.Rtl));
+    var ltrConfigurations = Html.Raw(KTTheme.PrintHtmlAttributes("html"));
+    var rtlConfigurations = "dir=rtl direction=rtl style=direction:rtl;";
 }
 
 <!DOCTYPE html>
-<html @Html.Raw(KTTheme.PrintHtmlAttributes("html"))>
+<html @(rtl ? rtlConfigurations : ltrConfigurations)>
 <!--begin::Head-->
 
 <head>
