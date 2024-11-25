@@ -26,9 +26,11 @@ function initializeDataTable(dotNetRef, options)
     _dotNetRef = dotNetRef;
 
     var datatables = abp.utils.createNamespace(abp, 'libs.datatables');
+    var datatableLanguages = datatables.defaultConfigurations.language();
+    delete datatableLanguages.paginate;
 
     datatables.defaultConfigurations.language = function () {
-        return {};
+        return datatableLanguages;
     };
 
     // Use the passed options to override the default ones
